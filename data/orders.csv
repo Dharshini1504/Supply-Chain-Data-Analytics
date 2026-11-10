@@ -1,0 +1,2001 @@
+order_id,order_date,customer_id,region,warehouse,sales_channel,order_status,supplier_id
+O000941,2025-01-01,C00420,North,Delhi,Website,Completed,S008
+O001635,2025-01-01,C00394,North,Delhi,Mobile App,Completed,S002
+O001700,2025-01-01,C00404,West,Mumbai,Marketplace,Completed,S002
+O001857,2025-01-01,C00425,North,Delhi,Website,Cancelled,S004
+O000092,2025-01-02,C00444,West,Mumbai,Website,Completed,S003
+O000989,2025-01-02,C00003,North,Delhi,Website,Completed,S005
+O001061,2025-01-02,C00255,West,Mumbai,Mobile App,Completed,S003
+O001096,2025-01-02,C00161,East,Kolkata,Mobile App,Completed,S003
+O001353,2025-01-02,C00018,West,Mumbai,Marketplace,Completed,S005
+O001463,2025-01-02,C00572,Central,Bengaluru,Mobile App,Completed,S008
+O001734,2025-01-02,C00145,Central,Bengaluru,Website,Completed,S002
+O001785,2025-01-02,C00325,West,Mumbai,Website,Completed,S006
+O001895,2025-01-02,C00272,South,Chennai,Mobile App,Completed,S003
+O000772,2025-01-03,C00585,Central,Bengaluru,Mobile App,Completed,S006
+O001215,2025-01-03,C00072,West,Mumbai,Mobile App,Completed,S001
+O000540,2025-01-04,C00238,West,Mumbai,Mobile App,Returned,S006
+O000727,2025-01-04,C00237,East,Kolkata,Website,Completed,S009
+O000792,2025-01-04,C00103,West,Mumbai,Marketplace,Completed,S006
+O000835,2025-01-04,C00235,West,Mumbai,Mobile App,Completed,S003
+O001272,2025-01-04,C00367,South,Chennai,Marketplace,Completed,S008
+O001763,2025-01-04,C00200,West,Mumbai,Marketplace,Completed,S002
+O000306,2025-01-05,C00006,South,Chennai,Website,Completed,S009
+O000754,2025-01-05,C00246,North,Delhi,Marketplace,Completed,S008
+O000804,2025-01-05,C00193,Central,Bengaluru,Website,Completed,S006
+O000904,2025-01-05,C00247,North,Delhi,Marketplace,Completed,S007
+O001621,2025-01-05,C00160,Central,Bengaluru,Website,Completed,S003
+O001747,2025-01-05,C00198,East,Kolkata,Website,Completed,S001
+O001755,2025-01-05,C00180,East,Kolkata,Mobile App,Completed,S010
+O000137,2025-01-06,C00506,North,Delhi,Website,Completed,S005
+O000357,2025-01-06,C00528,West,Mumbai,Marketplace,Completed,S003
+O000480,2025-01-06,C00025,East,Kolkata,Mobile App,Completed,S006
+O000925,2025-01-06,C00442,West,Mumbai,Marketplace,Returned,S009
+O001146,2025-01-06,C00511,North,Delhi,Mobile App,Completed,S010
+O001484,2025-01-06,C00098,East,Kolkata,Mobile App,Completed,S008
+O001821,2025-01-06,C00024,North,Delhi,Website,Completed,S002
+O001841,2025-01-06,C00062,North,Delhi,Mobile App,Completed,S003
+O001932,2025-01-06,C00276,West,Mumbai,Mobile App,Cancelled,S003
+O000768,2025-01-07,C00098,West,Mumbai,Mobile App,Completed,S007
+O001476,2025-01-07,C00070,North,Delhi,Website,Cancelled,S010
+O001788,2025-01-07,C00435,South,Chennai,Website,Completed,S009
+O000637,2025-01-08,C00205,Central,Bengaluru,Marketplace,Completed,S007
+O000895,2025-01-08,C00264,West,Mumbai,Website,Completed,S006
+O001686,2025-01-08,C00430,West,Mumbai,Website,Completed,S007
+O001736,2025-01-08,C00406,East,Kolkata,Marketplace,Completed,S010
+O000105,2025-01-09,C00428,Central,Bengaluru,Mobile App,Completed,S005
+O000743,2025-01-09,C00090,Central,Bengaluru,Website,Completed,S006
+O000876,2025-01-09,C00158,West,Mumbai,Marketplace,Completed,S008
+O001007,2025-01-09,C00098,Central,Bengaluru,Marketplace,Completed,S005
+O001081,2025-01-09,C00519,East,Kolkata,Mobile App,Completed,S002
+O001131,2025-01-09,C00104,Central,Bengaluru,Website,Completed,S001
+O001416,2025-01-09,C00392,North,Delhi,Marketplace,Completed,S003
+O001694,2025-01-09,C00479,Central,Bengaluru,Mobile App,Completed,S004
+O001867,2025-01-09,C00370,East,Kolkata,Mobile App,Completed,S004
+O000107,2025-01-10,C00427,East,Kolkata,Mobile App,Completed,S008
+O000514,2025-01-10,C00479,West,Mumbai,Website,Completed,S009
+O000587,2025-01-10,C00187,North,Delhi,Mobile App,Completed,S010
+O000955,2025-01-10,C00385,East,Kolkata,Website,Returned,S009
+O001140,2025-01-10,C00543,East,Kolkata,Marketplace,Completed,S001
+O001778,2025-01-10,C00137,South,Chennai,Website,Completed,S010
+O000014,2025-01-11,C00012,South,Chennai,Mobile App,Completed,S008
+O001929,2025-01-11,C00499,West,Mumbai,Mobile App,Completed,S006
+O001953,2025-01-11,C00402,Central,Bengaluru,Mobile App,Completed,S004
+O000275,2025-01-12,C00155,North,Delhi,Mobile App,Completed,S005
+O001093,2025-01-12,C00007,East,Kolkata,Marketplace,Completed,S005
+O001254,2025-01-12,C00130,Central,Bengaluru,Website,Completed,S004
+O001485,2025-01-12,C00435,West,Mumbai,Marketplace,Completed,S002
+O000205,2025-01-13,C00066,West,Mumbai,Website,Completed,S006
+O000341,2025-01-13,C00285,East,Kolkata,Website,Completed,S001
+O000682,2025-01-13,C00261,East,Kolkata,Marketplace,Completed,S001
+O000708,2025-01-13,C00157,Central,Bengaluru,Mobile App,Completed,S006
+O000861,2025-01-13,C00122,East,Kolkata,Marketplace,Completed,S008
+O001749,2025-01-13,C00388,Central,Bengaluru,Website,Completed,S007
+O001820,2025-01-13,C00143,East,Kolkata,Marketplace,Completed,S007
+O000384,2025-01-14,C00346,Central,Bengaluru,Website,Completed,S009
+O000394,2025-01-14,C00023,West,Mumbai,Website,Completed,S005
+O000654,2025-01-14,C00559,Central,Bengaluru,Mobile App,Completed,S004
+O000728,2025-01-14,C00513,North,Delhi,Website,Completed,S003
+O001477,2025-01-14,C00391,East,Kolkata,Marketplace,Completed,S010
+O001834,2025-01-14,C00251,North,Delhi,Website,Completed,S001
+O000071,2025-01-15,C00182,East,Kolkata,Mobile App,Completed,S001
+O000451,2025-01-15,C00353,Central,Bengaluru,Marketplace,Completed,S010
+O001144,2025-01-15,C00088,East,Kolkata,Mobile App,Completed,S005
+O001257,2025-01-15,C00086,East,Kolkata,Mobile App,Completed,S005
+O000438,2025-01-16,C00129,North,Delhi,Mobile App,Cancelled,S010
+O000715,2025-01-16,C00584,South,Chennai,Website,Completed,S008
+O001616,2025-01-16,C00432,South,Chennai,Website,Completed,S009
+O001853,2025-01-16,C00539,South,Chennai,Website,Completed,S007
+O001978,2025-01-16,C00296,North,Delhi,Mobile App,Completed,S005
+O000373,2025-01-17,C00253,West,Mumbai,Mobile App,Completed,S004
+O000407,2025-01-17,C00489,East,Kolkata,Website,Completed,S005
+O000519,2025-01-17,C00385,South,Chennai,Website,Completed,S001
+O000570,2025-01-17,C00255,South,Chennai,Mobile App,Completed,S004
+O000697,2025-01-17,C00318,Central,Bengaluru,Website,Completed,S003
+O001603,2025-01-17,C00305,West,Mumbai,Website,Completed,S008
+O001680,2025-01-17,C00084,East,Kolkata,Mobile App,Completed,S006
+O001825,2025-01-17,C00168,Central,Bengaluru,Website,Completed,S006
+O000008,2025-01-18,C00382,North,Delhi,Mobile App,Completed,S008
+O000614,2025-01-18,C00249,Central,Bengaluru,Marketplace,Completed,S010
+O000642,2025-01-18,C00213,North,Delhi,Mobile App,Completed,S006
+O001651,2025-01-18,C00371,North,Delhi,Mobile App,Completed,S009
+O001702,2025-01-18,C00475,East,Kolkata,Website,Completed,S009
+O000138,2025-01-19,C00160,Central,Bengaluru,Website,Completed,S001
+O000179,2025-01-19,C00531,Central,Bengaluru,Marketplace,Completed,S006
+O000881,2025-01-19,C00007,North,Delhi,Website,Completed,S006
+O001433,2025-01-19,C00588,North,Delhi,Mobile App,Completed,S009
+O001742,2025-01-19,C00594,Central,Bengaluru,Website,Completed,S008
+O000212,2025-01-20,C00589,Central,Bengaluru,Website,Completed,S005
+O001665,2025-01-20,C00053,East,Kolkata,Website,Completed,S003
+O001713,2025-01-20,C00395,South,Chennai,Website,Returned,S004
+O001782,2025-01-20,C00412,North,Delhi,Marketplace,Completed,S005
+O001831,2025-01-20,C00487,West,Mumbai,Mobile App,Completed,S001
+O000141,2025-01-21,C00026,East,Kolkata,Marketplace,Completed,S005
+O000701,2025-01-21,C00028,South,Chennai,Mobile App,Completed,S001
+O000997,2025-01-21,C00050,North,Delhi,Mobile App,Completed,S002
+O001054,2025-01-21,C00298,South,Chennai,Website,Completed,S005
+O001057,2025-01-21,C00060,Central,Bengaluru,Marketplace,Completed,S003
+O001597,2025-01-21,C00169,North,Delhi,Marketplace,Completed,S001
+O001675,2025-01-21,C00332,West,Mumbai,Marketplace,Cancelled,S006
+O000193,2025-01-22,C00597,South,Chennai,Website,Completed,S006
+O000323,2025-01-22,C00318,South,Chennai,Website,Completed,S002
+O000591,2025-01-22,C00491,Central,Bengaluru,Website,Completed,S003
+O000673,2025-01-22,C00430,East,Kolkata,Website,Completed,S009
+O000950,2025-01-22,C00375,North,Delhi,Mobile App,Completed,S006
+O001180,2025-01-22,C00021,North,Delhi,Mobile App,Completed,S009
+O001440,2025-01-22,C00462,South,Chennai,Mobile App,Returned,S007
+O001921,2025-01-22,C00201,West,Mumbai,Marketplace,Completed,S008
+O000250,2025-01-23,C00058,Central,Bengaluru,Website,Completed,S008
+O001136,2025-01-23,C00244,West,Mumbai,Mobile App,Completed,S002
+O001209,2025-01-23,C00498,North,Delhi,Marketplace,Completed,S001
+O001268,2025-01-23,C00409,North,Delhi,Marketplace,Completed,S009
+O001410,2025-01-23,C00101,East,Kolkata,Marketplace,Completed,S005
+O001536,2025-01-23,C00432,East,Kolkata,Marketplace,Completed,S003
+O001917,2025-01-23,C00290,Central,Bengaluru,Website,Cancelled,S004
+O000942,2025-01-24,C00317,East,Kolkata,Mobile App,Completed,S004
+O001482,2025-01-24,C00164,West,Mumbai,Website,Completed,S010
+O001955,2025-01-24,C00456,East,Kolkata,Website,Completed,S001
+O001985,2025-01-24,C00250,North,Delhi,Marketplace,Completed,S004
+O000195,2025-01-25,C00141,Central,Bengaluru,Marketplace,Completed,S004
+O000749,2025-01-25,C00589,South,Chennai,Marketplace,Completed,S010
+O001474,2025-01-25,C00009,East,Kolkata,Marketplace,Completed,S003
+O001559,2025-01-25,C00587,South,Chennai,Website,Completed,S002
+O000151,2025-01-26,C00240,West,Mumbai,Marketplace,Completed,S003
+O000817,2025-01-26,C00096,North,Delhi,Marketplace,Completed,S010
+O001306,2025-01-26,C00494,South,Chennai,Marketplace,Completed,S002
+O001609,2025-01-26,C00496,West,Mumbai,Website,Completed,S008
+O001659,2025-01-26,C00089,North,Delhi,Website,Completed,S005
+O001663,2025-01-26,C00493,Central,Bengaluru,Mobile App,Completed,S009
+O000398,2025-01-27,C00278,South,Chennai,Website,Completed,S003
+O001845,2025-01-27,C00589,West,Mumbai,Website,Cancelled,S006
+O000109,2025-01-28,C00497,East,Kolkata,Website,Completed,S008
+O000784,2025-01-28,C00275,East,Kolkata,Website,Completed,S006
+O001231,2025-01-28,C00170,West,Mumbai,Marketplace,Returned,S002
+O001464,2025-01-28,C00417,East,Kolkata,Website,Completed,S009
+O001509,2025-01-28,C00295,East,Kolkata,Website,Completed,S003
+O001692,2025-01-28,C00493,East,Kolkata,Mobile App,Completed,S003
+O001996,2025-01-28,C00013,Central,Bengaluru,Website,Completed,S010
+O000659,2025-01-29,C00256,East,Kolkata,Mobile App,Completed,S004
+O001045,2025-01-29,C00171,West,Mumbai,Marketplace,Cancelled,S010
+O000593,2025-01-30,C00230,West,Mumbai,Marketplace,Completed,S007
+O000802,2025-01-30,C00439,South,Chennai,Mobile App,Completed,S007
+O001023,2025-01-30,C00347,South,Chennai,Mobile App,Completed,S003
+O000393,2025-01-31,C00246,North,Delhi,Marketplace,Completed,S004
+O000963,2025-01-31,C00165,Central,Bengaluru,Marketplace,Completed,S009
+O001413,2025-01-31,C00462,East,Kolkata,Mobile App,Completed,S008
+O001977,2025-01-31,C00506,West,Mumbai,Mobile App,Completed,S005
+O000052,2025-02-01,C00106,North,Delhi,Website,Completed,S004
+O000709,2025-02-01,C00476,North,Delhi,Website,Completed,S004
+O001389,2025-02-01,C00038,North,Delhi,Marketplace,Completed,S009
+O000686,2025-02-02,C00033,North,Delhi,Website,Cancelled,S007
+O001678,2025-02-02,C00126,South,Chennai,Website,Completed,S002
+O000016,2025-02-03,C00100,Central,Bengaluru,Mobile App,Completed,S002
+O000204,2025-02-03,C00105,East,Kolkata,Marketplace,Completed,S004
+O000763,2025-02-03,C00585,South,Chennai,Mobile App,Completed,S001
+O001284,2025-02-03,C00226,Central,Bengaluru,Mobile App,Completed,S004
+O001799,2025-02-03,C00353,East,Kolkata,Mobile App,Completed,S002
+O001927,2025-02-03,C00583,East,Kolkata,Marketplace,Completed,S009
+O000147,2025-02-04,C00021,North,Delhi,Marketplace,Completed,S008
+O000320,2025-02-04,C00475,Central,Bengaluru,Mobile App,Completed,S003
+O000517,2025-02-04,C00013,South,Chennai,Website,Completed,S006
+O000753,2025-02-04,C00288,East,Kolkata,Website,Completed,S003
+O000864,2025-02-04,C00356,East,Kolkata,Website,Completed,S001
+O000888,2025-02-04,C00269,North,Delhi,Mobile App,Completed,S008
+O000901,2025-02-04,C00562,Central,Bengaluru,Marketplace,Completed,S008
+O000930,2025-02-04,C00104,South,Chennai,Marketplace,Completed,S005
+O000969,2025-02-04,C00280,East,Kolkata,Website,Cancelled,S007
+O001154,2025-02-04,C00404,West,Mumbai,Website,Completed,S007
+O001281,2025-02-04,C00074,West,Mumbai,Mobile App,Completed,S001
+O000172,2025-02-05,C00503,North,Delhi,Website,Completed,S002
+O001275,2025-02-05,C00479,East,Kolkata,Website,Completed,S002
+O001486,2025-02-05,C00376,North,Delhi,Marketplace,Cancelled,S007
+O001809,2025-02-05,C00407,South,Chennai,Website,Completed,S007
+O000021,2025-02-06,C00447,East,Kolkata,Website,Completed,S010
+O000206,2025-02-06,C00044,North,Delhi,Mobile App,Cancelled,S005
+O001264,2025-02-06,C00221,West,Mumbai,Website,Completed,S010
+O001537,2025-02-06,C00481,North,Delhi,Mobile App,Completed,S003
+O001572,2025-02-06,C00223,Central,Bengaluru,Mobile App,Completed,S004
+O001712,2025-02-06,C00452,East,Kolkata,Mobile App,Completed,S007
+O000003,2025-02-07,C00211,South,Chennai,Website,Completed,S006
+O000208,2025-02-07,C00211,South,Chennai,Marketplace,Completed,S007
+O001301,2025-02-07,C00377,East,Kolkata,Website,Completed,S006
+O001615,2025-02-07,C00553,North,Delhi,Website,Completed,S002
+O000770,2025-02-08,C00220,South,Chennai,Mobile App,Returned,S005
+O001200,2025-02-08,C00192,South,Chennai,Mobile App,Completed,S010
+O001251,2025-02-08,C00550,West,Mumbai,Mobile App,Completed,S004
+O001954,2025-02-08,C00318,Central,Bengaluru,Website,Completed,S010
+O000450,2025-02-09,C00593,South,Chennai,Mobile App,Completed,S009
+O000532,2025-02-09,C00021,South,Chennai,Marketplace,Completed,S007
+O000671,2025-02-09,C00447,West,Mumbai,Marketplace,Completed,S006
+O000897,2025-02-09,C00395,South,Chennai,Website,Completed,S009
+O001531,2025-02-09,C00599,North,Delhi,Website,Cancelled,S004
+O001611,2025-02-09,C00175,West,Mumbai,Mobile App,Completed,S006
+O000840,2025-02-10,C00536,North,Delhi,Marketplace,Completed,S010
+O000865,2025-02-10,C00231,South,Chennai,Marketplace,Completed,S003
+O001185,2025-02-10,C00245,North,Delhi,Marketplace,Completed,S002
+O001790,2025-02-10,C00263,Central,Bengaluru,Marketplace,Completed,S007
+O001945,2025-02-10,C00363,East,Kolkata,Mobile App,Completed,S007
+O000001,2025-02-11,C00520,South,Chennai,Website,Completed,S007
+O000652,2025-02-11,C00205,Central,Bengaluru,Mobile App,Completed,S009
+O000740,2025-02-11,C00543,Central,Bengaluru,Marketplace,Completed,S007
+O000788,2025-02-11,C00330,South,Chennai,Marketplace,Completed,S004
+O001443,2025-02-11,C00496,Central,Bengaluru,Marketplace,Completed,S007
+O001975,2025-02-11,C00369,South,Chennai,Mobile App,Returned,S004
+O000629,2025-02-12,C00233,North,Delhi,Mobile App,Completed,S008
+O000663,2025-02-12,C00126,Central,Bengaluru,Website,Completed,S002
+O000828,2025-02-12,C00162,South,Chennai,Marketplace,Completed,S004
+O001618,2025-02-12,C00440,North,Delhi,Mobile App,Completed,S007
+O001748,2025-02-12,C00399,North,Delhi,Website,Completed,S004
+O001889,2025-02-12,C00271,East,Kolkata,Marketplace,Returned,S002
+O000245,2025-02-13,C00033,Central,Bengaluru,Marketplace,Completed,S001
+O000721,2025-02-13,C00297,South,Chennai,Mobile App,Completed,S002
+O000808,2025-02-13,C00182,East,Kolkata,Marketplace,Completed,S002
+O001179,2025-02-13,C00134,North,Delhi,Website,Completed,S006
+O001354,2025-02-13,C00191,South,Chennai,Mobile App,Completed,S009
+O001888,2025-02-13,C00338,North,Delhi,Marketplace,Completed,S008
+O000222,2025-02-14,C00102,West,Mumbai,Mobile App,Completed,S003
+O000586,2025-02-14,C00477,South,Chennai,Mobile App,Completed,S001
+O000818,2025-02-14,C00066,Central,Bengaluru,Marketplace,Completed,S008
+O001001,2025-02-14,C00466,South,Chennai,Website,Completed,S003
+O001545,2025-02-14,C00227,West,Mumbai,Marketplace,Completed,S005
+O001032,2025-02-15,C00066,South,Chennai,Mobile App,Completed,S002
+O001082,2025-02-15,C00286,East,Kolkata,Website,Completed,S006
+O001341,2025-02-15,C00468,South,Chennai,Marketplace,Completed,S010
+O001351,2025-02-15,C00420,South,Chennai,Marketplace,Completed,S007
+O001501,2025-02-15,C00388,West,Mumbai,Mobile App,Completed,S007
+O001604,2025-02-15,C00548,North,Delhi,Website,Completed,S006
+O001971,2025-02-15,C00361,North,Delhi,Marketplace,Completed,S003
+O000108,2025-02-16,C00102,North,Delhi,Marketplace,Returned,S007
+O000157,2025-02-16,C00305,North,Delhi,Marketplace,Completed,S009
+O000660,2025-02-16,C00135,East,Kolkata,Website,Completed,S001
+O001098,2025-02-16,C00349,Central,Bengaluru,Mobile App,Completed,S003
+O001223,2025-02-16,C00059,South,Chennai,Marketplace,Completed,S001
+O001610,2025-02-16,C00337,South,Chennai,Marketplace,Completed,S002
+O001802,2025-02-16,C00143,East,Kolkata,Marketplace,Completed,S005
+O001893,2025-02-16,C00145,East,Kolkata,Marketplace,Completed,S001
+O001920,2025-02-16,C00111,North,Delhi,Website,Completed,S009
+O000084,2025-02-17,C00377,South,Chennai,Website,Completed,S009
+O000224,2025-02-17,C00399,Central,Bengaluru,Website,Completed,S008
+O000430,2025-02-17,C00106,South,Chennai,Website,Completed,S006
+O000641,2025-02-17,C00423,South,Chennai,Website,Completed,S004
+O000849,2025-02-17,C00176,West,Mumbai,Marketplace,Completed,S009
+O001221,2025-02-17,C00497,South,Chennai,Mobile App,Completed,S007
+O001260,2025-02-17,C00062,South,Chennai,Mobile App,Completed,S001
+O001274,2025-02-17,C00244,North,Delhi,Website,Completed,S003
+O001490,2025-02-17,C00569,West,Mumbai,Marketplace,Completed,S006
+O000258,2025-02-18,C00373,East,Kolkata,Marketplace,Completed,S008
+O000984,2025-02-18,C00596,East,Kolkata,Mobile App,Completed,S003
+O001002,2025-02-18,C00311,West,Mumbai,Marketplace,Completed,S003
+O001348,2025-02-18,C00429,East,Kolkata,Marketplace,Completed,S003
+O001478,2025-02-18,C00201,Central,Bengaluru,Marketplace,Completed,S003
+O000259,2025-02-19,C00268,Central,Bengaluru,Website,Completed,S009
+O000786,2025-02-19,C00467,West,Mumbai,Mobile App,Completed,S003
+O000935,2025-02-19,C00213,North,Delhi,Mobile App,Completed,S006
+O001019,2025-02-19,C00259,East,Kolkata,Marketplace,Cancelled,S010
+O001244,2025-02-19,C00250,East,Kolkata,Website,Completed,S010
+O001848,2025-02-19,C00221,South,Chennai,Mobile App,Completed,S009
+O000188,2025-02-20,C00173,Central,Bengaluru,Marketplace,Completed,S004
+O000411,2025-02-20,C00082,East,Kolkata,Website,Completed,S003
+O001295,2025-02-20,C00174,Central,Bengaluru,Mobile App,Completed,S003
+O001465,2025-02-20,C00320,North,Delhi,Marketplace,Completed,S006
+O000462,2025-02-21,C00531,East,Kolkata,Website,Cancelled,S005
+O001349,2025-02-21,C00564,North,Delhi,Marketplace,Completed,S010
+O000116,2025-02-22,C00388,North,Delhi,Mobile App,Completed,S004
+O000248,2025-02-22,C00175,North,Delhi,Website,Completed,S007
+O000289,2025-02-22,C00120,West,Mumbai,Mobile App,Completed,S007
+O001114,2025-02-22,C00036,East,Kolkata,Mobile App,Completed,S009
+O001655,2025-02-22,C00271,North,Delhi,Website,Completed,S009
+O001851,2025-02-22,C00054,North,Delhi,Marketplace,Completed,S005
+O001872,2025-02-22,C00514,North,Delhi,Website,Completed,S005
+O000518,2025-02-23,C00023,Central,Bengaluru,Website,Completed,S001
+O000658,2025-02-23,C00502,North,Delhi,Marketplace,Completed,S005
+O001004,2025-02-23,C00157,East,Kolkata,Website,Returned,S006
+O001203,2025-02-23,C00460,South,Chennai,Website,Completed,S004
+O001219,2025-02-23,C00146,Central,Bengaluru,Marketplace,Completed,S009
+O001514,2025-02-23,C00389,West,Mumbai,Website,Completed,S010
+O000018,2025-02-24,C00566,East,Kolkata,Website,Completed,S001
+O001771,2025-02-24,C00054,West,Mumbai,Website,Completed,S002
+O001840,2025-02-24,C00249,Central,Bengaluru,Website,Completed,S007
+O000371,2025-02-25,C00337,Central,Bengaluru,Website,Cancelled,S010
+O000557,2025-02-25,C00524,East,Kolkata,Website,Completed,S009
+O000567,2025-02-25,C00282,East,Kolkata,Mobile App,Completed,S008
+O000783,2025-02-25,C00023,North,Delhi,Mobile App,Completed,S009
+O001717,2025-02-25,C00014,South,Chennai,Website,Completed,S008
+O000111,2025-02-26,C00506,West,Mumbai,Marketplace,Completed,S007
+O000225,2025-02-26,C00089,North,Delhi,Marketplace,Cancelled,S006
+O000830,2025-02-26,C00372,Central,Bengaluru,Mobile App,Completed,S007
+O000908,2025-02-26,C00004,East,Kolkata,Website,Completed,S007
+O001406,2025-02-26,C00557,East,Kolkata,Website,Completed,S008
+O001591,2025-02-26,C00215,South,Chennai,Mobile App,Completed,S001
+O001859,2025-02-26,C00403,West,Mumbai,Mobile App,Completed,S004
+O000657,2025-02-27,C00346,West,Mumbai,Marketplace,Completed,S004
+O000796,2025-02-27,C00152,North,Delhi,Website,Completed,S003
+O001337,2025-02-27,C00061,South,Chennai,Website,Completed,S004
+O001992,2025-02-27,C00418,West,Mumbai,Mobile App,Completed,S006
+O000403,2025-02-28,C00323,East,Kolkata,Mobile App,Completed,S001
+O000431,2025-02-28,C00136,Central,Bengaluru,Mobile App,Completed,S006
+O000578,2025-02-28,C00513,East,Kolkata,Mobile App,Completed,S009
+O000973,2025-02-28,C00123,West,Mumbai,Mobile App,Cancelled,S006
+O001297,2025-02-28,C00120,West,Mumbai,Marketplace,Completed,S009
+O001534,2025-02-28,C00135,South,Chennai,Marketplace,Completed,S002
+O001773,2025-02-28,C00066,Central,Bengaluru,Website,Cancelled,S010
+O001828,2025-02-28,C00186,West,Mumbai,Marketplace,Completed,S005
+O001842,2025-02-28,C00264,West,Mumbai,Mobile App,Completed,S002
+O001924,2025-02-28,C00521,West,Mumbai,Marketplace,Completed,S005
+O000126,2025-03-01,C00084,East,Kolkata,Marketplace,Completed,S006
+O000207,2025-03-01,C00533,South,Chennai,Website,Completed,S008
+O000638,2025-03-01,C00502,West,Mumbai,Mobile App,Completed,S002
+O000640,2025-03-01,C00316,South,Chennai,Marketplace,Completed,S006
+O001017,2025-03-01,C00345,Central,Bengaluru,Website,Completed,S008
+O001380,2025-03-01,C00052,West,Mumbai,Marketplace,Completed,S009
+O001468,2025-03-01,C00199,South,Chennai,Marketplace,Completed,S003
+O001679,2025-03-01,C00420,Central,Bengaluru,Website,Completed,S005
+O001753,2025-03-01,C00510,North,Delhi,Mobile App,Completed,S007
+O000374,2025-03-02,C00596,Central,Bengaluru,Website,Completed,S010
+O001532,2025-03-02,C00106,South,Chennai,Website,Completed,S010
+O000050,2025-03-03,C00517,North,Delhi,Mobile App,Completed,S006
+O000080,2025-03-03,C00113,West,Mumbai,Mobile App,Completed,S005
+O000426,2025-03-03,C00212,Central,Bengaluru,Mobile App,Completed,S003
+O000751,2025-03-03,C00305,South,Chennai,Mobile App,Completed,S004
+O000039,2025-03-04,C00460,North,Delhi,Website,Completed,S003
+O000150,2025-03-04,C00351,South,Chennai,Website,Completed,S010
+O000755,2025-03-04,C00291,East,Kolkata,Mobile App,Completed,S006
+O000836,2025-03-04,C00015,East,Kolkata,Mobile App,Completed,S010
+O001227,2025-03-04,C00267,West,Mumbai,Mobile App,Completed,S003
+O001393,2025-03-04,C00347,South,Chennai,Website,Completed,S008
+O001396,2025-03-04,C00250,Central,Bengaluru,Website,Completed,S001
+O001399,2025-03-04,C00014,South,Chennai,Website,Completed,S001
+O001697,2025-03-04,C00221,East,Kolkata,Mobile App,Cancelled,S005
+O001883,2025-03-04,C00375,North,Delhi,Marketplace,Completed,S010
+O000095,2025-03-05,C00262,North,Delhi,Mobile App,Completed,S008
+O000246,2025-03-05,C00287,West,Mumbai,Marketplace,Returned,S004
+O000349,2025-03-06,C00154,East,Kolkata,Marketplace,Returned,S001
+O000798,2025-03-06,C00077,West,Mumbai,Mobile App,Completed,S008
+O001111,2025-03-06,C00148,West,Mumbai,Mobile App,Completed,S002
+O001587,2025-03-06,C00449,North,Delhi,Marketplace,Completed,S009
+O001626,2025-03-06,C00437,Central,Bengaluru,Website,Returned,S002
+O001870,2025-03-06,C00156,West,Mumbai,Website,Completed,S001
+O001913,2025-03-06,C00379,East,Kolkata,Mobile App,Completed,S010
+O001979,2025-03-06,C00416,Central,Bengaluru,Website,Completed,S009
+O000028,2025-03-07,C00270,North,Delhi,Marketplace,Completed,S008
+O000366,2025-03-07,C00095,South,Chennai,Marketplace,Completed,S008
+O000760,2025-03-07,C00139,South,Chennai,Website,Completed,S001
+O000893,2025-03-07,C00396,South,Chennai,Mobile App,Completed,S004
+O001687,2025-03-07,C00473,North,Delhi,Marketplace,Completed,S010
+O000227,2025-03-08,C00391,North,Delhi,Website,Completed,S010
+O000531,2025-03-08,C00315,North,Delhi,Mobile App,Completed,S004
+O000584,2025-03-08,C00181,Central,Bengaluru,Mobile App,Completed,S002
+O001225,2025-03-08,C00030,North,Delhi,Website,Cancelled,S004
+O001756,2025-03-08,C00137,South,Chennai,Mobile App,Returned,S005
+O000738,2025-03-09,C00581,East,Kolkata,Marketplace,Completed,S007
+O001224,2025-03-09,C00232,North,Delhi,Marketplace,Cancelled,S010
+O001764,2025-03-09,C00083,South,Chennai,Mobile App,Completed,S008
+O000336,2025-03-10,C00194,South,Chennai,Website,Completed,S007
+O000378,2025-03-10,C00193,North,Delhi,Marketplace,Completed,S006
+O000947,2025-03-10,C00447,North,Delhi,Mobile App,Completed,S001
+O001234,2025-03-10,C00349,West,Mumbai,Mobile App,Completed,S006
+O001563,2025-03-10,C00167,Central,Bengaluru,Website,Completed,S003
+O001874,2025-03-10,C00239,West,Mumbai,Mobile App,Completed,S010
+O000011,2025-03-11,C00192,North,Delhi,Website,Completed,S001
+O000073,2025-03-11,C00579,North,Delhi,Marketplace,Completed,S009
+O000603,2025-03-11,C00582,North,Delhi,Marketplace,Completed,S010
+O001075,2025-03-11,C00384,South,Chennai,Marketplace,Completed,S001
+O001373,2025-03-11,C00388,East,Kolkata,Mobile App,Completed,S003
+O001847,2025-03-11,C00374,Central,Bengaluru,Mobile App,Completed,S003
+O001964,2025-03-11,C00456,Central,Bengaluru,Mobile App,Completed,S010
+O000317,2025-03-12,C00487,West,Mumbai,Website,Completed,S006
+O000794,2025-03-12,C00061,North,Delhi,Website,Completed,S007
+O000816,2025-03-12,C00176,Central,Bengaluru,Mobile App,Completed,S008
+O000979,2025-03-12,C00086,North,Delhi,Website,Completed,S004
+O001685,2025-03-12,C00305,North,Delhi,Marketplace,Completed,S005
+O000355,2025-03-13,C00118,North,Delhi,Website,Completed,S008
+O000737,2025-03-13,C00552,South,Chennai,Mobile App,Completed,S005
+O000844,2025-03-13,C00122,South,Chennai,Marketplace,Completed,S003
+O000988,2025-03-13,C00275,Central,Bengaluru,Mobile App,Completed,S009
+O001113,2025-03-13,C00181,East,Kolkata,Mobile App,Completed,S002
+O000203,2025-03-14,C00332,East,Kolkata,Website,Completed,S006
+O000425,2025-03-14,C00333,South,Chennai,Website,Completed,S003
+O000580,2025-03-14,C00249,East,Kolkata,Marketplace,Completed,S001
+O000878,2025-03-14,C00599,East,Kolkata,Website,Completed,S008
+O001126,2025-03-14,C00173,East,Kolkata,Website,Completed,S010
+O001256,2025-03-14,C00082,Central,Bengaluru,Mobile App,Completed,S006
+O001556,2025-03-14,C00045,West,Mumbai,Marketplace,Completed,S006
+O001632,2025-03-14,C00546,Central,Bengaluru,Mobile App,Completed,S009
+O000051,2025-03-15,C00429,East,Kolkata,Mobile App,Completed,S004
+O000909,2025-03-15,C00301,Central,Bengaluru,Website,Completed,S008
+O001327,2025-03-15,C00551,East,Kolkata,Marketplace,Completed,S004
+O001449,2025-03-15,C00009,South,Chennai,Marketplace,Completed,S004
+O001462,2025-03-15,C00369,North,Delhi,Website,Cancelled,S004
+O000159,2025-03-16,C00533,East,Kolkata,Website,Completed,S002
+O000189,2025-03-16,C00053,North,Delhi,Mobile App,Completed,S009
+O000413,2025-03-16,C00210,East,Kolkata,Mobile App,Completed,S006
+O000477,2025-03-16,C00290,Central,Bengaluru,Website,Completed,S005
+O001121,2025-03-16,C00401,East,Kolkata,Marketplace,Completed,S001
+O001553,2025-03-16,C00084,West,Mumbai,Marketplace,Completed,S005
+O001315,2025-03-17,C00230,East,Kolkata,Website,Completed,S006
+O001796,2025-03-17,C00415,West,Mumbai,Website,Completed,S006
+O001939,2025-03-17,C00346,Central,Bengaluru,Website,Completed,S006
+O001959,2025-03-17,C00188,South,Chennai,Mobile App,Completed,S002
+O000094,2025-03-18,C00438,South,Chennai,Marketplace,Completed,S008
+O000099,2025-03-18,C00511,West,Mumbai,Website,Completed,S003
+O000563,2025-03-18,C00128,North,Delhi,Mobile App,Completed,S008
+O001278,2025-03-18,C00331,South,Chennai,Marketplace,Returned,S005
+O001411,2025-03-18,C00314,Central,Bengaluru,Mobile App,Completed,S001
+O001625,2025-03-18,C00253,South,Chennai,Website,Completed,S001
+O001033,2025-03-19,C00188,Central,Bengaluru,Website,Completed,S008
+O001150,2025-03-19,C00004,North,Delhi,Website,Completed,S008
+O001793,2025-03-19,C00473,East,Kolkata,Website,Completed,S004
+O001829,2025-03-19,C00036,South,Chennai,Marketplace,Returned,S009
+O000069,2025-03-20,C00114,East,Kolkata,Website,Completed,S001
+O000607,2025-03-20,C00131,South,Chennai,Mobile App,Completed,S001
+O000706,2025-03-20,C00329,South,Chennai,Website,Completed,S006
+O001161,2025-03-20,C00359,East,Kolkata,Mobile App,Completed,S007
+O001299,2025-03-20,C00281,North,Delhi,Mobile App,Completed,S005
+O001673,2025-03-20,C00595,West,Mumbai,Mobile App,Completed,S005
+O000838,2025-03-21,C00169,North,Delhi,Website,Completed,S003
+O001117,2025-03-21,C00585,East,Kolkata,Mobile App,Completed,S006
+O001167,2025-03-21,C00407,South,Chennai,Website,Completed,S006
+O000239,2025-03-22,C00424,North,Delhi,Marketplace,Cancelled,S003
+O000326,2025-03-22,C00595,North,Delhi,Marketplace,Returned,S010
+O000624,2025-03-22,C00012,Central,Bengaluru,Website,Completed,S005
+O000696,2025-03-22,C00003,West,Mumbai,Mobile App,Completed,S009
+O000889,2025-03-22,C00070,West,Mumbai,Website,Returned,S003
+O000978,2025-03-22,C00199,West,Mumbai,Marketplace,Completed,S004
+O001339,2025-03-22,C00568,Central,Bengaluru,Mobile App,Completed,S007
+O000213,2025-03-23,C00278,East,Kolkata,Marketplace,Completed,S007
+O000304,2025-03-23,C00394,West,Mumbai,Marketplace,Completed,S004
+O000497,2025-03-23,C00585,Central,Bengaluru,Website,Completed,S008
+O000702,2025-03-23,C00469,East,Kolkata,Website,Completed,S010
+O000723,2025-03-23,C00308,North,Delhi,Marketplace,Completed,S002
+O001445,2025-03-23,C00370,East,Kolkata,Mobile App,Completed,S005
+O001454,2025-03-23,C00394,West,Mumbai,Website,Completed,S006
+O001671,2025-03-23,C00433,East,Kolkata,Marketplace,Cancelled,S005
+O001684,2025-03-23,C00037,East,Kolkata,Website,Completed,S004
+O000974,2025-03-24,C00407,Central,Bengaluru,Mobile App,Completed,S003
+O001774,2025-03-24,C00330,South,Chennai,Website,Completed,S005
+O000837,2025-03-25,C00289,West,Mumbai,Marketplace,Returned,S008
+O001025,2025-03-25,C00395,North,Delhi,Marketplace,Completed,S002
+O001229,2025-03-25,C00099,North,Delhi,Website,Completed,S005
+O001695,2025-03-25,C00335,North,Delhi,Website,Completed,S003
+O000009,2025-03-26,C00174,East,Kolkata,Website,Completed,S005
+O000235,2025-03-26,C00084,East,Kolkata,Website,Completed,S002
+O000500,2025-03-26,C00176,North,Delhi,Marketplace,Completed,S004
+O000634,2025-03-26,C00094,Central,Bengaluru,Mobile App,Completed,S008
+O000962,2025-03-26,C00551,East,Kolkata,Website,Completed,S004
+O001176,2025-03-26,C00415,North,Delhi,Website,Completed,S008
+O001149,2025-03-27,C00302,Central,Bengaluru,Marketplace,Completed,S007
+O001422,2025-03-27,C00283,North,Delhi,Website,Completed,S004
+O000088,2025-03-28,C00559,North,Delhi,Mobile App,Completed,S007
+O000114,2025-03-28,C00328,East,Kolkata,Marketplace,Completed,S005
+O000534,2025-03-28,C00026,Central,Bengaluru,Mobile App,Completed,S010
+O001283,2025-03-28,C00449,West,Mumbai,Website,Completed,S010
+O001636,2025-03-28,C00304,West,Mumbai,Marketplace,Completed,S002
+O000087,2025-03-29,C00189,North,Delhi,Mobile App,Completed,S002
+O000161,2025-03-29,C00056,East,Kolkata,Website,Completed,S008
+O000981,2025-03-29,C00265,West,Mumbai,Website,Completed,S007
+O001030,2025-03-29,C00110,East,Kolkata,Mobile App,Returned,S008
+O001097,2025-03-29,C00044,West,Mumbai,Marketplace,Completed,S008
+O001376,2025-03-29,C00552,North,Delhi,Mobile App,Completed,S002
+O001431,2025-03-29,C00043,North,Delhi,Website,Completed,S002
+O001456,2025-03-29,C00446,Central,Bengaluru,Website,Completed,S003
+O001475,2025-03-29,C00532,Central,Bengaluru,Website,Completed,S007
+O001503,2025-03-29,C00410,West,Mumbai,Website,Completed,S009
+O002000,2025-03-29,C00117,West,Mumbai,Website,Completed,S009
+O000130,2025-03-30,C00557,East,Kolkata,Website,Completed,S007
+O000423,2025-03-30,C00006,South,Chennai,Website,Completed,S004
+O000729,2025-03-30,C00594,West,Mumbai,Marketplace,Completed,S007
+O001164,2025-03-30,C00347,North,Delhi,Mobile App,Completed,S008
+O001754,2025-03-30,C00486,North,Delhi,Mobile App,Completed,S010
+O000912,2025-03-31,C00080,Central,Bengaluru,Website,Completed,S001
+O001009,2025-03-31,C00082,East,Kolkata,Marketplace,Completed,S005
+O001309,2025-03-31,C00273,West,Mumbai,Mobile App,Completed,S005
+O001470,2025-03-31,C00233,North,Delhi,Mobile App,Completed,S005
+O001662,2025-03-31,C00123,North,Delhi,Marketplace,Completed,S002
+O001965,2025-03-31,C00065,East,Kolkata,Website,Completed,S003
+O000125,2025-04-01,C00314,West,Mumbai,Marketplace,Completed,S003
+O000226,2025-04-01,C00479,North,Delhi,Marketplace,Returned,S002
+O000536,2025-04-01,C00583,South,Chennai,Website,Completed,S010
+O000774,2025-04-01,C00221,East,Kolkata,Marketplace,Completed,S005
+O001658,2025-04-01,C00004,East,Kolkata,Marketplace,Completed,S009
+O001791,2025-04-01,C00124,West,Mumbai,Marketplace,Completed,S001
+O000302,2025-04-02,C00186,West,Mumbai,Marketplace,Completed,S001
+O000342,2025-04-02,C00263,South,Chennai,Marketplace,Completed,S006
+O000356,2025-04-02,C00191,West,Mumbai,Mobile App,Returned,S008
+O000420,2025-04-02,C00093,West,Mumbai,Marketplace,Completed,S008
+O001328,2025-04-02,C00141,West,Mumbai,Website,Completed,S002
+O001561,2025-04-02,C00066,Central,Bengaluru,Marketplace,Completed,S005
+O001928,2025-04-02,C00163,East,Kolkata,Website,Completed,S002
+O000155,2025-04-03,C00119,North,Delhi,Website,Completed,S007
+O000571,2025-04-03,C00013,East,Kolkata,Mobile App,Returned,S003
+O000756,2025-04-03,C00133,West,Mumbai,Marketplace,Completed,S002
+O001401,2025-04-03,C00151,West,Mumbai,Website,Completed,S005
+O001706,2025-04-03,C00332,North,Delhi,Marketplace,Completed,S009
+O000249,2025-04-04,C00340,East,Kolkata,Website,Completed,S006
+O000348,2025-04-04,C00185,West,Mumbai,Website,Completed,S008
+O000705,2025-04-04,C00187,West,Mumbai,Website,Completed,S010
+O000717,2025-04-04,C00565,South,Chennai,Website,Completed,S003
+O001241,2025-04-04,C00137,South,Chennai,Mobile App,Completed,S007
+O001624,2025-04-04,C00452,Central,Bengaluru,Mobile App,Completed,S007
+O001906,2025-04-04,C00135,North,Delhi,Mobile App,Completed,S001
+O000024,2025-04-05,C00289,North,Delhi,Website,Cancelled,S007
+O000482,2025-04-05,C00162,South,Chennai,Website,Completed,S010
+O001135,2025-04-05,C00296,West,Mumbai,Marketplace,Completed,S003
+O001345,2025-04-05,C00526,North,Delhi,Marketplace,Cancelled,S010
+O001627,2025-04-05,C00244,North,Delhi,Marketplace,Completed,S009
+O000010,2025-04-06,C00146,East,Kolkata,Marketplace,Completed,S007
+O000078,2025-04-06,C00478,East,Kolkata,Website,Completed,S006
+O000615,2025-04-06,C00305,West,Mumbai,Mobile App,Completed,S003
+O001307,2025-04-06,C00584,West,Mumbai,Marketplace,Completed,S006
+O001542,2025-04-06,C00035,South,Chennai,Website,Completed,S001
+O001982,2025-04-06,C00352,Central,Bengaluru,Marketplace,Cancelled,S008
+O000156,2025-04-07,C00074,Central,Bengaluru,Marketplace,Completed,S010
+O001240,2025-04-07,C00114,Central,Bengaluru,Marketplace,Completed,S002
+O001250,2025-04-07,C00579,East,Kolkata,Marketplace,Completed,S010
+O001426,2025-04-07,C00176,South,Chennai,Mobile App,Completed,S004
+O001529,2025-04-07,C00321,East,Kolkata,Mobile App,Completed,S004
+O001836,2025-04-07,C00098,West,Mumbai,Mobile App,Completed,S003
+O001994,2025-04-07,C00315,Central,Bengaluru,Marketplace,Completed,S001
+O000539,2025-04-08,C00092,North,Delhi,Marketplace,Cancelled,S001
+O000648,2025-04-08,C00208,Central,Bengaluru,Website,Cancelled,S009
+O000748,2025-04-08,C00254,Central,Bengaluru,Marketplace,Completed,S010
+O001441,2025-04-08,C00031,East,Kolkata,Website,Completed,S008
+O001745,2025-04-08,C00261,East,Kolkata,Website,Completed,S008
+O001784,2025-04-08,C00144,West,Mumbai,Marketplace,Completed,S010
+O001814,2025-04-08,C00540,Central,Bengaluru,Website,Completed,S007
+O000136,2025-04-09,C00443,Central,Bengaluru,Website,Returned,S004
+O000459,2025-04-09,C00525,Central,Bengaluru,Mobile App,Completed,S007
+O000882,2025-04-09,C00590,Central,Bengaluru,Marketplace,Completed,S008
+O000902,2025-04-09,C00415,West,Mumbai,Marketplace,Completed,S010
+O001202,2025-04-09,C00475,North,Delhi,Website,Completed,S003
+O000537,2025-04-10,C00521,Central,Bengaluru,Website,Completed,S002
+O000568,2025-04-10,C00449,Central,Bengaluru,Website,Completed,S008
+O001262,2025-04-10,C00222,East,Kolkata,Mobile App,Completed,S008
+O000242,2025-04-11,C00343,West,Mumbai,Marketplace,Completed,S006
+O000419,2025-04-11,C00285,West,Mumbai,Marketplace,Completed,S003
+O000668,2025-04-11,C00594,East,Kolkata,Marketplace,Completed,S004
+O000669,2025-04-11,C00546,South,Chennai,Website,Completed,S010
+O001382,2025-04-11,C00020,East,Kolkata,Marketplace,Completed,S004
+O000303,2025-04-12,C00100,South,Chennai,Mobile App,Returned,S004
+O001266,2025-04-12,C00473,South,Chennai,Website,Completed,S010
+O001479,2025-04-12,C00001,East,Kolkata,Website,Completed,S006
+O000049,2025-04-13,C00137,North,Delhi,Website,Completed,S001
+O000309,2025-04-13,C00505,Central,Bengaluru,Mobile App,Completed,S007
+O000613,2025-04-13,C00451,West,Mumbai,Mobile App,Completed,S005
+O000698,2025-04-13,C00003,South,Chennai,Website,Completed,S004
+O000917,2025-04-13,C00592,South,Chennai,Marketplace,Completed,S007
+O001166,2025-04-13,C00045,West,Mumbai,Marketplace,Completed,S005
+O001860,2025-04-13,C00546,North,Delhi,Mobile App,Completed,S007
+O001925,2025-04-13,C00063,South,Chennai,Mobile App,Completed,S010
+O000271,2025-04-14,C00165,Central,Bengaluru,Mobile App,Completed,S002
+O000277,2025-04-14,C00049,East,Kolkata,Marketplace,Completed,S010
+O000735,2025-04-14,C00171,South,Chennai,Marketplace,Completed,S007
+O000769,2025-04-14,C00177,East,Kolkata,Marketplace,Completed,S006
+O001613,2025-04-14,C00252,East,Kolkata,Marketplace,Completed,S010
+O001926,2025-04-14,C00478,Central,Bengaluru,Mobile App,Completed,S002
+O000186,2025-04-15,C00016,Central,Bengaluru,Website,Completed,S005
+O000899,2025-04-15,C00243,North,Delhi,Mobile App,Completed,S007
+O000948,2025-04-15,C00111,East,Kolkata,Website,Completed,S001
+O001021,2025-04-15,C00483,East,Kolkata,Mobile App,Completed,S005
+O000368,2025-04-16,C00173,North,Delhi,Website,Completed,S007
+O000481,2025-04-16,C00211,South,Chennai,Website,Completed,S007
+O000544,2025-04-16,C00508,North,Delhi,Mobile App,Completed,S008
+O001362,2025-04-16,C00482,North,Delhi,Website,Completed,S008
+O001455,2025-04-16,C00582,South,Chennai,Website,Completed,S001
+O001984,2025-04-16,C00068,West,Mumbai,Website,Completed,S007
+O000263,2025-04-17,C00205,North,Delhi,Mobile App,Completed,S002
+O000428,2025-04-17,C00293,West,Mumbai,Marketplace,Completed,S005
+O000597,2025-04-17,C00539,Central,Bengaluru,Website,Completed,S010
+O000790,2025-04-17,C00176,East,Kolkata,Marketplace,Completed,S007
+O001562,2025-04-17,C00308,East,Kolkata,Mobile App,Completed,S004
+O001608,2025-04-17,C00196,South,Chennai,Mobile App,Completed,S002
+O001727,2025-04-17,C00432,South,Chennai,Mobile App,Completed,S003
+O001878,2025-04-17,C00446,East,Kolkata,Website,Completed,S003
+O000335,2025-04-18,C00281,West,Mumbai,Mobile App,Completed,S009
+O000678,2025-04-18,C00264,North,Delhi,Marketplace,Completed,S009
+O000883,2025-04-18,C00088,North,Delhi,Marketplace,Completed,S002
+O001127,2025-04-18,C00267,North,Delhi,Marketplace,Cancelled,S002
+O001156,2025-04-18,C00290,Central,Bengaluru,Marketplace,Completed,S003
+O001547,2025-04-18,C00255,West,Mumbai,Marketplace,Completed,S008
+O001868,2025-04-18,C00494,South,Chennai,Marketplace,Completed,S007
+O000047,2025-04-19,C00126,East,Kolkata,Website,Completed,S004
+O000255,2025-04-19,C00505,North,Delhi,Mobile App,Completed,S001
+O001245,2025-04-19,C00285,South,Chennai,Mobile App,Completed,S010
+O001318,2025-04-19,C00596,East,Kolkata,Mobile App,Cancelled,S006
+O001873,2025-04-19,C00049,East,Kolkata,Marketplace,Completed,S004
+O000759,2025-04-20,C00411,West,Mumbai,Marketplace,Completed,S010
+O000812,2025-04-20,C00084,Central,Bengaluru,Website,Completed,S004
+O000863,2025-04-20,C00170,South,Chennai,Marketplace,Completed,S006
+O001246,2025-04-20,C00506,North,Delhi,Website,Completed,S008
+O001744,2025-04-20,C00469,East,Kolkata,Marketplace,Completed,S003
+O001255,2025-04-21,C00071,West,Mumbai,Website,Completed,S002
+O001425,2025-04-21,C00451,Central,Bengaluru,Website,Cancelled,S001
+O000633,2025-04-22,C00400,East,Kolkata,Marketplace,Completed,S005
+O001016,2025-04-22,C00329,South,Chennai,Mobile App,Completed,S008
+O001066,2025-04-22,C00102,Central,Bengaluru,Website,Completed,S010
+O001446,2025-04-22,C00595,South,Chennai,Website,Cancelled,S006
+O001819,2025-04-22,C00030,North,Delhi,Mobile App,Completed,S008
+O000441,2025-04-23,C00587,East,Kolkata,Marketplace,Completed,S005
+O000699,2025-04-23,C00270,West,Mumbai,Website,Completed,S005
+O000261,2025-04-24,C00261,Central,Bengaluru,Website,Completed,S009
+O000855,2025-04-24,C00390,North,Delhi,Marketplace,Completed,S001
+O001000,2025-04-24,C00560,East,Kolkata,Mobile App,Completed,S001
+O001051,2025-04-24,C00353,Central,Bengaluru,Mobile App,Completed,S009
+O001090,2025-04-24,C00516,North,Delhi,Marketplace,Completed,S007
+O000232,2025-04-25,C00161,South,Chennai,Website,Completed,S007
+O000337,2025-04-25,C00578,Central,Bengaluru,Marketplace,Completed,S001
+O000506,2025-04-25,C00182,East,Kolkata,Marketplace,Completed,S005
+O001040,2025-04-25,C00586,Central,Bengaluru,Marketplace,Completed,S006
+O001428,2025-04-25,C00080,Central,Bengaluru,Mobile App,Completed,S007
+O001451,2025-04-25,C00421,North,Delhi,Mobile App,Completed,S010
+O001558,2025-04-25,C00287,West,Mumbai,Marketplace,Completed,S003
+O001623,2025-04-25,C00158,East,Kolkata,Marketplace,Completed,S003
+O001733,2025-04-25,C00100,West,Mumbai,Website,Completed,S001
+O001881,2025-04-25,C00266,South,Chennai,Mobile App,Cancelled,S003
+O001896,2025-04-25,C00596,South,Chennai,Marketplace,Completed,S007
+O001904,2025-04-25,C00124,West,Mumbai,Mobile App,Completed,S005
+O000469,2025-04-26,C00160,East,Kolkata,Website,Completed,S006
+O000619,2025-04-26,C00359,North,Delhi,Website,Completed,S001
+O001854,2025-04-26,C00023,South,Chennai,Marketplace,Returned,S004
+O000338,2025-04-27,C00213,South,Chennai,Marketplace,Completed,S010
+O001395,2025-04-27,C00069,West,Mumbai,Website,Completed,S008
+O001858,2025-04-27,C00146,Central,Bengaluru,Marketplace,Completed,S003
+O001884,2025-04-27,C00571,West,Mumbai,Marketplace,Completed,S006
+O000285,2025-04-28,C00010,Central,Bengaluru,Mobile App,Completed,S006
+O000388,2025-04-28,C00082,East,Kolkata,Mobile App,Completed,S005
+O001029,2025-04-28,C00095,West,Mumbai,Marketplace,Completed,S005
+O001206,2025-04-28,C00209,Central,Bengaluru,Website,Completed,S005
+O000418,2025-04-29,C00450,South,Chennai,Mobile App,Completed,S010
+O000554,2025-04-29,C00533,Central,Bengaluru,Website,Cancelled,S002
+O000594,2025-04-29,C00193,East,Kolkata,Website,Completed,S003
+O001471,2025-04-29,C00454,West,Mumbai,Mobile App,Completed,S003
+O001990,2025-04-29,C00402,East,Kolkata,Marketplace,Returned,S002
+O000117,2025-04-30,C00248,South,Chennai,Website,Completed,S003
+O000145,2025-04-30,C00016,West,Mumbai,Website,Completed,S008
+O000457,2025-04-30,C00381,West,Mumbai,Mobile App,Completed,S001
+O000625,2025-04-30,C00292,South,Chennai,Website,Completed,S010
+O000787,2025-04-30,C00022,West,Mumbai,Mobile App,Completed,S005
+O001175,2025-04-30,C00439,East,Kolkata,Mobile App,Cancelled,S005
+O001757,2025-04-30,C00259,Central,Bengaluru,Mobile App,Completed,S001
+O000176,2025-05-01,C00110,North,Delhi,Website,Completed,S001
+O000184,2025-05-01,C00190,North,Delhi,Mobile App,Completed,S001
+O000221,2025-05-01,C00154,North,Delhi,Marketplace,Completed,S009
+O000906,2025-05-01,C00488,North,Delhi,Website,Cancelled,S010
+O001190,2025-05-01,C00282,South,Chennai,Mobile App,Completed,S002
+O000121,2025-05-02,C00077,East,Kolkata,Mobile App,Completed,S009
+O000442,2025-05-02,C00376,Central,Bengaluru,Marketplace,Completed,S001
+O000675,2025-05-02,C00305,West,Mumbai,Website,Completed,S002
+O001073,2025-05-02,C00520,Central,Bengaluru,Mobile App,Returned,S008
+O001510,2025-05-02,C00464,West,Mumbai,Website,Completed,S005
+O001761,2025-05-02,C00135,Central,Bengaluru,Mobile App,Completed,S009
+O000169,2025-05-03,C00510,West,Mumbai,Mobile App,Completed,S004
+O000322,2025-05-03,C00451,Central,Bengaluru,Marketplace,Cancelled,S002
+O000851,2025-05-03,C00058,North,Delhi,Website,Completed,S003
+O000995,2025-05-03,C00286,North,Delhi,Website,Completed,S005
+O000023,2025-05-04,C00147,West,Mumbai,Mobile App,Completed,S008
+O001143,2025-05-04,C00430,North,Delhi,Marketplace,Completed,S007
+O001487,2025-05-04,C00026,North,Delhi,Mobile App,Completed,S008
+O000033,2025-05-05,C00374,West,Mumbai,Mobile App,Completed,S008
+O000143,2025-05-05,C00312,North,Delhi,Marketplace,Completed,S002
+O000395,2025-05-05,C00465,West,Mumbai,Marketplace,Completed,S004
+O000575,2025-05-05,C00182,North,Delhi,Website,Completed,S006
+O001641,2025-05-05,C00571,West,Mumbai,Website,Completed,S001
+O001660,2025-05-05,C00568,Central,Bengaluru,Marketplace,Completed,S005
+O001911,2025-05-05,C00514,Central,Bengaluru,Mobile App,Completed,S009
+O000135,2025-05-06,C00061,West,Mumbai,Marketplace,Completed,S010
+O000435,2025-05-06,C00597,North,Delhi,Website,Completed,S007
+O000750,2025-05-06,C00236,North,Delhi,Mobile App,Completed,S005
+O000809,2025-05-06,C00144,West,Mumbai,Website,Completed,S009
+O000971,2025-05-06,C00095,South,Chennai,Website,Completed,S007
+O001386,2025-05-06,C00386,North,Delhi,Website,Completed,S002
+O000252,2025-05-07,C00143,East,Kolkata,Website,Completed,S002
+O000606,2025-05-07,C00347,Central,Bengaluru,Marketplace,Completed,S005
+O001634,2025-05-07,C00197,Central,Bengaluru,Marketplace,Completed,S002
+O001669,2025-05-07,C00514,North,Delhi,Mobile App,Returned,S008
+O000391,2025-05-08,C00415,South,Chennai,Marketplace,Returned,S002
+O000559,2025-05-08,C00313,Central,Bengaluru,Marketplace,Completed,S009
+O000650,2025-05-08,C00199,West,Mumbai,Mobile App,Completed,S009
+O001080,2025-05-08,C00501,East,Kolkata,Marketplace,Completed,S006
+O001481,2025-05-08,C00118,South,Chennai,Marketplace,Completed,S002
+O001513,2025-05-08,C00038,West,Mumbai,Website,Completed,S008
+O001667,2025-05-08,C00262,West,Mumbai,Mobile App,Completed,S005
+O000149,2025-05-09,C00249,East,Kolkata,Marketplace,Completed,S003
+O000191,2025-05-09,C00492,Central,Bengaluru,Website,Completed,S008
+O000290,2025-05-09,C00171,North,Delhi,Marketplace,Completed,S006
+O000547,2025-05-09,C00253,West,Mumbai,Website,Completed,S009
+O000647,2025-05-09,C00294,North,Delhi,Marketplace,Completed,S010
+O000839,2025-05-09,C00506,West,Mumbai,Marketplace,Completed,S005
+O001086,2025-05-09,C00522,Central,Bengaluru,Mobile App,Completed,S008
+O001293,2025-05-09,C00576,West,Mumbai,Marketplace,Completed,S008
+O001444,2025-05-09,C00165,Central,Bengaluru,Website,Completed,S009
+O001787,2025-05-09,C00226,North,Delhi,Mobile App,Completed,S004
+O000907,2025-05-10,C00074,West,Mumbai,Mobile App,Completed,S004
+O001461,2025-05-10,C00422,West,Mumbai,Marketplace,Completed,S004
+O001879,2025-05-10,C00381,South,Chennai,Mobile App,Completed,S008
+O000315,2025-05-11,C00281,West,Mumbai,Marketplace,Cancelled,S009
+O000940,2025-05-11,C00251,East,Kolkata,Website,Completed,S006
+O001153,2025-05-11,C00459,South,Chennai,Mobile App,Completed,S001
+O001540,2025-05-11,C00551,Central,Bengaluru,Website,Completed,S007
+O001741,2025-05-11,C00017,East,Kolkata,Mobile App,Completed,S004
+O001948,2025-05-11,C00182,Central,Bengaluru,Marketplace,Completed,S001
+O000321,2025-05-12,C00492,North,Delhi,Website,Completed,S004
+O000541,2025-05-12,C00259,Central,Bengaluru,Marketplace,Completed,S006
+O001036,2025-05-12,C00341,East,Kolkata,Mobile App,Completed,S001
+O001369,2025-05-12,C00245,East,Kolkata,Website,Completed,S007
+O001420,2025-05-12,C00571,North,Delhi,Mobile App,Cancelled,S004
+O001494,2025-05-12,C00193,Central,Bengaluru,Mobile App,Completed,S005
+O001770,2025-05-12,C00452,West,Mumbai,Marketplace,Completed,S003
+O001815,2025-05-12,C00459,Central,Bengaluru,Mobile App,Completed,S006
+O000044,2025-05-14,C00273,North,Delhi,Marketplace,Completed,S002
+O000502,2025-05-14,C00401,North,Delhi,Mobile App,Completed,S004
+O000596,2025-05-14,C00464,West,Mumbai,Mobile App,Completed,S002
+O000703,2025-05-14,C00425,Central,Bengaluru,Mobile App,Completed,S007
+O001022,2025-05-14,C00252,South,Chennai,Marketplace,Completed,S008
+O001325,2025-05-14,C00453,West,Mumbai,Marketplace,Completed,S008
+O000383,2025-05-15,C00599,West,Mumbai,Website,Returned,S001
+O000527,2025-05-15,C00104,Central,Bengaluru,Website,Cancelled,S008
+O000666,2025-05-15,C00294,South,Chennai,Mobile App,Completed,S004
+O000691,2025-05-15,C00255,North,Delhi,Marketplace,Completed,S003
+O001583,2025-05-15,C00017,Central,Bengaluru,Marketplace,Completed,S005
+O000054,2025-05-16,C00174,East,Kolkata,Mobile App,Completed,S003
+O000177,2025-05-16,C00199,East,Kolkata,Website,Completed,S008
+O000693,2025-05-16,C00158,West,Mumbai,Website,Completed,S003
+O000814,2025-05-16,C00391,West,Mumbai,Mobile App,Completed,S007
+O001313,2025-05-16,C00308,South,Chennai,Marketplace,Completed,S008
+O001657,2025-05-16,C00300,North,Delhi,Marketplace,Completed,S007
+O000240,2025-05-18,C00003,West,Mumbai,Mobile App,Completed,S005
+O000490,2025-05-18,C00137,Central,Bengaluru,Marketplace,Completed,S001
+O000545,2025-05-18,C00244,North,Delhi,Mobile App,Completed,S010
+O000945,2025-05-18,C00503,East,Kolkata,Website,Returned,S001
+O001039,2025-05-18,C00462,Central,Bengaluru,Mobile App,Completed,S007
+O001690,2025-05-18,C00241,East,Kolkata,Website,Cancelled,S003
+O001918,2025-05-18,C00099,Central,Bengaluru,Website,Completed,S003
+O000214,2025-05-19,C00456,East,Kolkata,Website,Completed,S008
+O000220,2025-05-19,C00581,South,Chennai,Mobile App,Completed,S010
+O000782,2025-05-19,C00149,North,Delhi,Website,Completed,S007
+O001489,2025-05-19,C00356,West,Mumbai,Marketplace,Completed,S001
+O001508,2025-05-19,C00456,Central,Bengaluru,Website,Completed,S002
+O001541,2025-05-19,C00498,South,Chennai,Marketplace,Completed,S010
+O001818,2025-05-19,C00422,Central,Bengaluru,Marketplace,Completed,S004
+O000209,2025-05-21,C00046,West,Mumbai,Website,Completed,S010
+O000339,2025-05-21,C00092,West,Mumbai,Marketplace,Completed,S005
+O000493,2025-05-21,C00315,South,Chennai,Mobile App,Completed,S009
+O000757,2025-05-21,C00350,South,Chennai,Mobile App,Completed,S006
+O001212,2025-05-21,C00472,Central,Bengaluru,Marketplace,Completed,S005
+O001282,2025-05-21,C00092,South,Chennai,Marketplace,Completed,S003
+O000199,2025-05-22,C00142,South,Chennai,Marketplace,Completed,S005
+O000200,2025-05-22,C00426,East,Kolkata,Mobile App,Completed,S009
+O000653,2025-05-22,C00242,North,Delhi,Website,Completed,S004
+O000918,2025-05-22,C00013,South,Chennai,Website,Completed,S008
+O000944,2025-05-22,C00559,West,Mumbai,Website,Completed,S010
+O001343,2025-05-22,C00532,South,Chennai,Website,Returned,S009
+O000238,2025-05-23,C00542,Central,Bengaluru,Website,Completed,S003
+O000507,2025-05-23,C00494,West,Mumbai,Website,Completed,S004
+O000872,2025-05-23,C00299,East,Kolkata,Marketplace,Completed,S004
+O000991,2025-05-23,C00228,West,Mumbai,Marketplace,Cancelled,S008
+O001003,2025-05-23,C00181,Central,Bengaluru,Mobile App,Completed,S006
+O001137,2025-05-23,C00088,West,Mumbai,Marketplace,Completed,S001
+O000711,2025-05-24,C00213,West,Mumbai,Website,Cancelled,S004
+O001594,2025-05-24,C00588,West,Mumbai,Marketplace,Completed,S006
+O000599,2025-05-25,C00213,South,Chennai,Website,Completed,S004
+O001390,2025-05-25,C00197,South,Chennai,Website,Completed,S001
+O000266,2025-05-26,C00002,North,Delhi,Marketplace,Completed,S006
+O001062,2025-05-26,C00024,Central,Bengaluru,Website,Completed,S001
+O001585,2025-05-26,C00306,Central,Bengaluru,Mobile App,Completed,S010
+O001622,2025-05-26,C00335,West,Mumbai,Mobile App,Completed,S010
+O000026,2025-05-27,C00050,East,Kolkata,Website,Completed,S005
+O000098,2025-05-27,C00509,East,Kolkata,Website,Completed,S001
+O000722,2025-05-27,C00013,North,Delhi,Marketplace,Completed,S005
+O000943,2025-05-27,C00003,South,Chennai,Marketplace,Completed,S004
+O001216,2025-05-27,C00272,Central,Bengaluru,Mobile App,Completed,S001
+O001649,2025-05-27,C00096,Central,Bengaluru,Mobile App,Completed,S010
+O001750,2025-05-27,C00176,South,Chennai,Website,Completed,S001
+O000354,2025-05-28,C00174,Central,Bengaluru,Marketplace,Completed,S001
+O000400,2025-05-28,C00383,Central,Bengaluru,Website,Completed,S009
+O000582,2025-05-28,C00331,North,Delhi,Website,Completed,S009
+O000767,2025-05-28,C00364,Central,Bengaluru,Website,Completed,S002
+O001576,2025-05-28,C00340,East,Kolkata,Mobile App,Completed,S004
+O001322,2025-05-29,C00068,South,Chennai,Marketplace,Completed,S003
+O001798,2025-05-29,C00362,West,Mumbai,Marketplace,Completed,S007
+O001233,2025-05-31,C00236,Central,Bengaluru,Website,Completed,S006
+O001863,2025-05-31,C00286,North,Delhi,Marketplace,Completed,S002
+O000216,2025-06-01,C00191,South,Chennai,Mobile App,Completed,S005
+O000279,2025-06-01,C00582,Central,Bengaluru,Mobile App,Completed,S004
+O000329,2025-06-01,C00440,South,Chennai,Marketplace,Completed,S003
+O000683,2025-06-01,C00486,Central,Bengaluru,Mobile App,Completed,S007
+O000793,2025-06-01,C00498,South,Chennai,Marketplace,Completed,S003
+O000976,2025-06-01,C00282,West,Mumbai,Website,Completed,S007
+O001115,2025-06-01,C00240,South,Chennai,Marketplace,Completed,S001
+O001310,2025-06-01,C00554,Central,Bengaluru,Marketplace,Returned,S004
+O000128,2025-06-02,C00093,East,Kolkata,Marketplace,Completed,S001
+O000399,2025-06-02,C00448,East,Kolkata,Website,Completed,S010
+O001439,2025-06-02,C00012,North,Delhi,Website,Completed,S010
+O001488,2025-06-02,C00437,West,Mumbai,Mobile App,Completed,S004
+O001768,2025-06-02,C00418,North,Delhi,Mobile App,Cancelled,S003
+O000081,2025-06-03,C00356,West,Mumbai,Marketplace,Completed,S007
+O000181,2025-06-03,C00059,South,Chennai,Website,Completed,S009
+O000298,2025-06-03,C00324,East,Kolkata,Website,Completed,S001
+O000832,2025-06-03,C00016,North,Delhi,Website,Completed,S005
+O000853,2025-06-03,C00001,East,Kolkata,Mobile App,Completed,S007
+O000957,2025-06-03,C00065,West,Mumbai,Mobile App,Completed,S009
+O001368,2025-06-03,C00474,West,Mumbai,Website,Returned,S004
+O001638,2025-06-03,C00556,Central,Bengaluru,Marketplace,Completed,S008
+O000045,2025-06-04,C00560,Central,Bengaluru,Mobile App,Returned,S001
+O000086,2025-06-04,C00349,East,Kolkata,Marketplace,Completed,S002
+O000710,2025-06-04,C00546,North,Delhi,Mobile App,Completed,S008
+O001105,2025-06-04,C00169,South,Chennai,Mobile App,Completed,S008
+O001400,2025-06-04,C00317,North,Delhi,Website,Completed,S001
+O000655,2025-06-05,C00532,North,Delhi,Website,Completed,S007
+O000961,2025-06-05,C00003,South,Chennai,Mobile App,Completed,S003
+O000992,2025-06-05,C00188,North,Delhi,Marketplace,Completed,S007
+O001261,2025-06-05,C00425,Central,Bengaluru,Mobile App,Completed,S004
+O001286,2025-06-05,C00253,North,Delhi,Website,Completed,S006
+O001500,2025-06-05,C00035,West,Mumbai,Website,Completed,S007
+O001871,2025-06-05,C00243,South,Chennai,Marketplace,Completed,S003
+O000202,2025-06-06,C00506,North,Delhi,Marketplace,Completed,S004
+O000280,2025-06-06,C00279,Central,Bengaluru,Website,Completed,S006
+O000725,2025-06-06,C00051,Central,Bengaluru,Mobile App,Completed,S002
+O000859,2025-06-06,C00465,East,Kolkata,Marketplace,Completed,S004
+O000994,2025-06-06,C00478,North,Delhi,Mobile App,Completed,S004
+O001060,2025-06-06,C00205,West,Mumbai,Marketplace,Completed,S007
+O001909,2025-06-06,C00358,North,Delhi,Mobile App,Completed,S005
+O001071,2025-06-07,C00416,North,Delhi,Mobile App,Completed,S008
+O001159,2025-06-07,C00301,South,Chennai,Marketplace,Completed,S005
+O001392,2025-06-07,C00461,Central,Bengaluru,Mobile App,Completed,S002
+O001581,2025-06-07,C00418,Central,Bengaluru,Mobile App,Completed,S006
+O000429,2025-06-08,C00356,West,Mumbai,Website,Completed,S001
+O001103,2025-06-08,C00457,East,Kolkata,Website,Cancelled,S009
+O001119,2025-06-08,C00367,West,Mumbai,Mobile App,Completed,S006
+O001346,2025-06-08,C00370,North,Delhi,Website,Completed,S005
+O000688,2025-06-09,C00101,East,Kolkata,Marketplace,Completed,S010
+O000694,2025-06-09,C00519,East,Kolkata,Mobile App,Completed,S004
+O001726,2025-06-09,C00408,South,Chennai,Website,Completed,S010
+O000133,2025-06-10,C00314,East,Kolkata,Mobile App,Completed,S001
+O000487,2025-06-10,C00364,Central,Bengaluru,Mobile App,Completed,S005
+O000898,2025-06-10,C00234,South,Chennai,Website,Completed,S007
+O001303,2025-06-10,C00293,East,Kolkata,Website,Completed,S006
+O000042,2025-06-11,C00486,West,Mumbai,Website,Completed,S005
+O000445,2025-06-11,C00452,West,Mumbai,Marketplace,Completed,S003
+O000880,2025-06-11,C00352,East,Kolkata,Marketplace,Completed,S003
+O001196,2025-06-11,C00449,Central,Bengaluru,Mobile App,Completed,S003
+O001408,2025-06-11,C00562,North,Delhi,Marketplace,Completed,S002
+O000154,2025-06-12,C00534,North,Delhi,Marketplace,Cancelled,S005
+O000639,2025-06-12,C00232,South,Chennai,Marketplace,Completed,S004
+O000731,2025-06-12,C00210,North,Delhi,Mobile App,Completed,S003
+O001340,2025-06-12,C00203,North,Delhi,Marketplace,Completed,S010
+O001554,2025-06-12,C00170,Central,Bengaluru,Marketplace,Completed,S006
+O001683,2025-06-12,C00400,West,Mumbai,Mobile App,Completed,S005
+O000333,2025-06-13,C00082,East,Kolkata,Marketplace,Completed,S007
+O000375,2025-06-13,C00522,East,Kolkata,Marketplace,Completed,S008
+O000447,2025-06-13,C00023,West,Mumbai,Website,Completed,S002
+O000847,2025-06-13,C00117,East,Kolkata,Mobile App,Completed,S002
+O000985,2025-06-13,C00072,Central,Bengaluru,Mobile App,Completed,S001
+O000210,2025-06-14,C00167,East,Kolkata,Website,Completed,S007
+O000343,2025-06-14,C00315,West,Mumbai,Mobile App,Completed,S009
+O000473,2025-06-14,C00600,West,Mumbai,Website,Completed,S001
+O000478,2025-06-14,C00512,West,Mumbai,Marketplace,Completed,S010
+O000556,2025-06-14,C00161,East,Kolkata,Mobile App,Cancelled,S005
+O000915,2025-06-14,C00586,North,Delhi,Mobile App,Completed,S001
+O001377,2025-06-14,C00388,South,Chennai,Marketplace,Completed,S010
+O001427,2025-06-14,C00465,South,Chennai,Mobile App,Completed,S006
+O001469,2025-06-14,C00439,West,Mumbai,Mobile App,Completed,S007
+O001769,2025-06-14,C00087,East,Kolkata,Website,Completed,S009
+O001844,2025-06-14,C00180,Central,Bengaluru,Marketplace,Completed,S010
+O000065,2025-06-15,C00562,North,Delhi,Website,Completed,S009
+O000308,2025-06-15,C00371,West,Mumbai,Marketplace,Completed,S003
+O000327,2025-06-15,C00109,North,Delhi,Website,Completed,S004
+O000392,2025-06-15,C00398,North,Delhi,Mobile App,Completed,S008
+O000920,2025-06-15,C00014,West,Mumbai,Website,Completed,S001
+O001211,2025-06-15,C00101,South,Chennai,Marketplace,Completed,S005
+O001620,2025-06-15,C00212,North,Delhi,Mobile App,Completed,S003
+O000043,2025-06-16,C00387,West,Mumbai,Website,Completed,S003
+O000134,2025-06-16,C00487,West,Mumbai,Marketplace,Completed,S006
+O001402,2025-06-16,C00436,Central,Bengaluru,Marketplace,Completed,S002
+O001704,2025-06-16,C00188,East,Kolkata,Mobile App,Completed,S007
+O001850,2025-06-16,C00204,North,Delhi,Marketplace,Completed,S006
+O000187,2025-06-17,C00227,West,Mumbai,Website,Returned,S007
+O000562,2025-06-17,C00013,West,Mumbai,Mobile App,Completed,S006
+O000350,2025-06-18,C00382,East,Kolkata,Marketplace,Completed,S010
+O000833,2025-06-18,C00035,South,Chennai,Mobile App,Completed,S003
+O000870,2025-06-18,C00097,West,Mumbai,Mobile App,Completed,S003
+O001042,2025-06-18,C00145,South,Chennai,Marketplace,Completed,S005
+O001158,2025-06-18,C00072,East,Kolkata,Mobile App,Completed,S009
+O001530,2025-06-18,C00107,North,Delhi,Marketplace,Completed,S007
+O001705,2025-06-18,C00562,North,Delhi,Mobile App,Completed,S003
+O000056,2025-06-19,C00017,North,Delhi,Website,Completed,S009
+O000194,2025-06-19,C00494,South,Chennai,Marketplace,Completed,S008
+O000352,2025-06-19,C00168,Central,Bengaluru,Marketplace,Cancelled,S009
+O001230,2025-06-19,C00099,North,Delhi,Website,Completed,S006
+O001424,2025-06-19,C00492,Central,Bengaluru,Marketplace,Completed,S002
+O001758,2025-06-19,C00482,South,Chennai,Mobile App,Completed,S003
+O000197,2025-06-20,C00269,East,Kolkata,Mobile App,Completed,S005
+O000230,2025-06-20,C00042,South,Chennai,Website,Completed,S004
+O000243,2025-06-20,C00163,Central,Bengaluru,Marketplace,Completed,S005
+O000762,2025-06-20,C00466,East,Kolkata,Website,Completed,S002
+O001076,2025-06-20,C00196,North,Delhi,Website,Completed,S009
+O001091,2025-06-20,C00099,North,Delhi,Marketplace,Completed,S006
+O001252,2025-06-20,C00406,North,Delhi,Website,Completed,S005
+O001437,2025-06-20,C00474,West,Mumbai,Mobile App,Completed,S004
+O001905,2025-06-20,C00543,Central,Bengaluru,Marketplace,Completed,S009
+O000510,2025-06-21,C00173,West,Mumbai,Mobile App,Completed,S007
+O000811,2025-06-21,C00578,West,Mumbai,Marketplace,Completed,S004
+O000987,2025-06-21,C00528,South,Chennai,Website,Completed,S008
+O001063,2025-06-21,C00559,West,Mumbai,Marketplace,Completed,S008
+O001100,2025-06-21,C00242,South,Chennai,Mobile App,Completed,S004
+O001169,2025-06-21,C00555,Central,Bengaluru,Website,Completed,S004
+O001338,2025-06-21,C00469,North,Delhi,Website,Completed,S002
+O001804,2025-06-21,C00226,South,Chennai,Website,Completed,S006
+O000396,2025-06-22,C00437,East,Kolkata,Mobile App,Completed,S004
+O000543,2025-06-22,C00588,West,Mumbai,Mobile App,Completed,S010
+O000572,2025-06-22,C00352,South,Chennai,Website,Cancelled,S004
+O000946,2025-06-22,C00475,East,Kolkata,Marketplace,Completed,S007
+O000954,2025-06-22,C00292,West,Mumbai,Website,Completed,S007
+O001432,2025-06-22,C00264,North,Delhi,Mobile App,Completed,S004
+O001483,2025-06-22,C00576,West,Mumbai,Marketplace,Completed,S007
+O001775,2025-06-22,C00142,East,Kolkata,Website,Completed,S010
+O001936,2025-06-22,C00217,West,Mumbai,Website,Completed,S007
+O000131,2025-06-23,C00172,North,Delhi,Website,Completed,S009
+O000257,2025-06-23,C00062,North,Delhi,Website,Completed,S002
+O000421,2025-06-23,C00395,West,Mumbai,Marketplace,Completed,S006
+O000476,2025-06-23,C00096,East,Kolkata,Mobile App,Completed,S005
+O001207,2025-06-23,C00310,West,Mumbai,Mobile App,Completed,S009
+O001589,2025-06-23,C00562,West,Mumbai,Marketplace,Completed,S003
+O001797,2025-06-23,C00207,Central,Bengaluru,Marketplace,Completed,S002
+O001843,2025-06-23,C00049,Central,Bengaluru,Website,Returned,S009
+O000439,2025-06-24,C00301,Central,Bengaluru,Website,Completed,S001
+O001031,2025-06-24,C00197,West,Mumbai,Mobile App,Completed,S008
+O001192,2025-06-24,C00160,East,Kolkata,Marketplace,Completed,S002
+O001496,2025-06-24,C00023,North,Delhi,Website,Completed,S003
+O001619,2025-06-24,C00553,West,Mumbai,Website,Completed,S008
+O001670,2025-06-24,C00580,Central,Bengaluru,Mobile App,Completed,S001
+O001738,2025-06-24,C00543,South,Chennai,Marketplace,Completed,S008
+O001803,2025-06-24,C00364,North,Delhi,Mobile App,Completed,S001
+O000265,2025-06-25,C00401,North,Delhi,Website,Completed,S004
+O000331,2025-06-25,C00145,West,Mumbai,Mobile App,Completed,S004
+O000416,2025-06-25,C00304,Central,Bengaluru,Marketplace,Completed,S008
+O001052,2025-06-25,C00472,Central,Bengaluru,Website,Completed,S009
+O000282,2025-06-26,C00010,Central,Bengaluru,Website,Completed,S002
+O000287,2025-06-26,C00176,South,Chennai,Website,Completed,S004
+O000402,2025-06-26,C00327,South,Chennai,Mobile App,Completed,S010
+O000523,2025-06-26,C00280,West,Mumbai,Marketplace,Cancelled,S010
+O000921,2025-06-26,C00410,South,Chennai,Website,Completed,S010
+O001855,2025-06-26,C00591,West,Mumbai,Mobile App,Returned,S006
+O000914,2025-06-27,C00286,West,Mumbai,Website,Completed,S002
+O001104,2025-06-27,C00360,South,Chennai,Marketplace,Completed,S001
+O001512,2025-06-27,C00502,North,Delhi,Mobile App,Completed,S003
+O001902,2025-06-27,C00106,North,Delhi,Website,Completed,S009
+O000664,2025-06-28,C00325,North,Delhi,Website,Returned,S004
+O001543,2025-06-28,C00543,North,Delhi,Marketplace,Completed,S010
+O000030,2025-06-29,C00322,South,Chennai,Mobile App,Completed,S002
+O000367,2025-06-29,C00429,South,Chennai,Marketplace,Completed,S003
+O001350,2025-06-29,C00439,South,Chennai,Mobile App,Cancelled,S007
+O001725,2025-06-29,C00185,Central,Bengaluru,Mobile App,Completed,S007
+O001869,2025-06-29,C00529,South,Chennai,Marketplace,Completed,S005
+O000795,2025-06-30,C00040,West,Mumbai,Website,Completed,S006
+O001217,2025-06-30,C00121,South,Chennai,Mobile App,Completed,S009
+O001267,2025-07-01,C00573,South,Chennai,Marketplace,Completed,S004
+O001714,2025-07-01,C00050,South,Chennai,Website,Completed,S003
+O000483,2025-07-02,C00196,Central,Bengaluru,Website,Completed,S010
+O000516,2025-07-02,C00387,Central,Bengaluru,Marketplace,Completed,S003
+O000807,2025-07-02,C00029,West,Mumbai,Marketplace,Completed,S008
+O001317,2025-07-02,C00204,West,Mumbai,Marketplace,Completed,S008
+O001357,2025-07-02,C00102,East,Kolkata,Marketplace,Completed,S004
+O001358,2025-07-02,C00145,East,Kolkata,Website,Cancelled,S006
+O001423,2025-07-02,C00124,North,Delhi,Website,Completed,S003
+O001526,2025-07-02,C00484,West,Mumbai,Mobile App,Completed,S008
+O001676,2025-07-02,C00591,South,Chennai,Website,Completed,S001
+O001786,2025-07-02,C00374,North,Delhi,Marketplace,Completed,S006
+O000406,2025-07-03,C00600,South,Chennai,Website,Completed,S005
+O000454,2025-07-03,C00381,West,Mumbai,Mobile App,Completed,S006
+O000886,2025-07-03,C00044,Central,Bengaluru,Mobile App,Completed,S006
+O001737,2025-07-03,C00191,South,Chennai,Website,Cancelled,S006
+O001767,2025-07-03,C00168,Central,Bengaluru,Website,Completed,S007
+O001800,2025-07-03,C00533,Central,Bengaluru,Website,Completed,S009
+O001987,2025-07-03,C00130,East,Kolkata,Website,Completed,S002
+O000046,2025-07-04,C00178,East,Kolkata,Marketplace,Completed,S008
+O000548,2025-07-04,C00379,North,Delhi,Marketplace,Cancelled,S004
+O000805,2025-07-04,C00504,East,Kolkata,Mobile App,Completed,S005
+O000884,2025-07-04,C00264,West,Mumbai,Marketplace,Completed,S001
+O001323,2025-07-04,C00387,Central,Bengaluru,Mobile App,Completed,S006
+O001718,2025-07-04,C00382,North,Delhi,Mobile App,Completed,S004
+O001856,2025-07-04,C00225,South,Chennai,Website,Completed,S007
+O001934,2025-07-04,C00458,North,Delhi,Mobile App,Completed,S001
+O001943,2025-07-04,C00024,South,Chennai,Mobile App,Returned,S003
+O000340,2025-07-05,C00302,North,Delhi,Marketplace,Completed,S008
+O001050,2025-07-05,C00368,East,Kolkata,Website,Completed,S004
+O001944,2025-07-05,C00310,Central,Bengaluru,Mobile App,Completed,S001
+O001249,2025-07-06,C00407,West,Mumbai,Mobile App,Cancelled,S010
+O001666,2025-07-06,C00407,South,Chennai,Marketplace,Completed,S004
+O000007,2025-07-07,C00022,North,Delhi,Marketplace,Cancelled,S002
+O000300,2025-07-07,C00259,North,Delhi,Marketplace,Completed,S008
+O000852,2025-07-07,C00029,North,Delhi,Mobile App,Completed,S005
+O000874,2025-07-07,C00145,North,Delhi,Website,Cancelled,S002
+O001059,2025-07-07,C00203,East,Kolkata,Website,Completed,S008
+O001078,2025-07-07,C00085,West,Mumbai,Marketplace,Completed,S006
+O001139,2025-07-07,C00517,South,Chennai,Website,Completed,S006
+O001184,2025-07-07,C00156,Central,Bengaluru,Marketplace,Completed,S008
+O001319,2025-07-07,C00289,East,Kolkata,Website,Completed,S005
+O001527,2025-07-07,C00261,East,Kolkata,Website,Completed,S010
+O000608,2025-07-08,C00390,East,Kolkata,Mobile App,Completed,S007
+O000968,2025-07-08,C00550,West,Mumbai,Website,Completed,S004
+O001014,2025-07-08,C00495,East,Kolkata,Mobile App,Cancelled,S005
+O001707,2025-07-08,C00158,East,Kolkata,Mobile App,Completed,S010
+O001259,2025-07-09,C00236,West,Mumbai,Mobile App,Cancelled,S006
+O001312,2025-07-09,C00059,West,Mumbai,Mobile App,Completed,S004
+O001580,2025-07-09,C00207,East,Kolkata,Marketplace,Completed,S008
+O001837,2025-07-09,C00408,East,Kolkata,Marketplace,Completed,S003
+O000110,2025-07-10,C00269,East,Kolkata,Website,Completed,S005
+O000662,2025-07-10,C00178,South,Chennai,Marketplace,Completed,S008
+O000736,2025-07-10,C00532,East,Kolkata,Website,Completed,S010
+O001743,2025-07-10,C00403,Central,Bengaluru,Marketplace,Completed,S009
+O001865,2025-07-10,C00274,Central,Bengaluru,Website,Completed,S002
+O000951,2025-07-11,C00349,Central,Bengaluru,Mobile App,Completed,S001
+O001344,2025-07-11,C00071,North,Delhi,Website,Cancelled,S004
+O001520,2025-07-11,C00363,North,Delhi,Mobile App,Completed,S006
+O001577,2025-07-11,C00511,Central,Bengaluru,Mobile App,Completed,S008
+O001822,2025-07-11,C00521,East,Kolkata,Mobile App,Completed,S006
+O000622,2025-07-12,C00021,North,Delhi,Mobile App,Completed,S006
+O001360,2025-07-12,C00320,Central,Bengaluru,Mobile App,Cancelled,S007
+O001569,2025-07-12,C00547,North,Delhi,Website,Completed,S004
+O000005,2025-07-13,C00355,South,Chennai,Website,Completed,S003
+O000029,2025-07-13,C00147,South,Chennai,Website,Completed,S010
+O000085,2025-07-13,C00457,West,Mumbai,Marketplace,Completed,S002
+O000312,2025-07-13,C00563,East,Kolkata,Mobile App,Completed,S009
+O000471,2025-07-13,C00388,North,Delhi,Website,Completed,S001
+O000515,2025-07-13,C00159,West,Mumbai,Mobile App,Completed,S008
+O000986,2025-07-13,C00524,West,Mumbai,Website,Completed,S010
+O001142,2025-07-13,C00025,Central,Bengaluru,Marketplace,Cancelled,S010
+O000063,2025-07-14,C00583,South,Chennai,Marketplace,Completed,S002
+O000672,2025-07-14,C00579,South,Chennai,Marketplace,Completed,S007
+O000689,2025-07-14,C00480,Central,Bengaluru,Marketplace,Completed,S007
+O000916,2025-07-14,C00057,West,Mumbai,Mobile App,Returned,S004
+O001273,2025-07-14,C00153,East,Kolkata,Marketplace,Completed,S003
+O001689,2025-07-14,C00187,South,Chennai,Website,Completed,S007
+O000292,2025-07-15,C00019,West,Mumbai,Mobile App,Completed,S002
+O000521,2025-07-15,C00582,North,Delhi,Marketplace,Completed,S008
+O000649,2025-07-15,C00097,West,Mumbai,Marketplace,Completed,S001
+O000651,2025-07-15,C00385,West,Mumbai,Marketplace,Returned,S001
+O000739,2025-07-15,C00583,South,Chennai,Mobile App,Cancelled,S007
+O001525,2025-07-15,C00450,Central,Bengaluru,Mobile App,Completed,S005
+O001538,2025-07-15,C00192,North,Delhi,Mobile App,Completed,S007
+O001931,2025-07-15,C00364,North,Delhi,Website,Completed,S003
+O000171,2025-07-16,C00300,West,Mumbai,Mobile App,Returned,S002
+O000183,2025-07-16,C00309,West,Mumbai,Marketplace,Completed,S006
+O000251,2025-07-16,C00174,Central,Bengaluru,Marketplace,Completed,S002
+O001710,2025-07-16,C00252,North,Delhi,Marketplace,Completed,S007
+O000887,2025-07-17,C00561,East,Kolkata,Marketplace,Completed,S010
+O001130,2025-07-17,C00539,East,Kolkata,Mobile App,Completed,S006
+O001332,2025-07-17,C00220,Central,Bengaluru,Mobile App,Completed,S010
+O001910,2025-07-17,C00404,Central,Bengaluru,Website,Completed,S004
+O000281,2025-07-18,C00313,East,Kolkata,Marketplace,Completed,S002
+O000310,2025-07-18,C00197,North,Delhi,Mobile App,Cancelled,S007
+O000369,2025-07-18,C00086,North,Delhi,Website,Completed,S003
+O000379,2025-07-18,C00557,East,Kolkata,Marketplace,Completed,S005
+O000529,2025-07-18,C00136,West,Mumbai,Mobile App,Completed,S001
+O001152,2025-07-18,C00014,South,Chennai,Mobile App,Completed,S001
+O001412,2025-07-18,C00302,West,Mumbai,Marketplace,Completed,S009
+O000330,2025-07-19,C00236,North,Delhi,Marketplace,Completed,S009
+O000332,2025-07-19,C00497,West,Mumbai,Website,Completed,S003
+O000656,2025-07-19,C00527,West,Mumbai,Mobile App,Completed,S004
+O000928,2025-07-19,C00434,West,Mumbai,Website,Completed,S002
+O001087,2025-07-19,C00185,South,Chennai,Marketplace,Completed,S001
+O001168,2025-07-19,C00455,East,Kolkata,Website,Completed,S002
+O001691,2025-07-19,C00504,North,Delhi,Website,Completed,S002
+O001935,2025-07-19,C00248,East,Kolkata,Website,Completed,S003
+O000218,2025-07-20,C00330,East,Kolkata,Mobile App,Completed,S001
+O001552,2025-07-20,C00265,East,Kolkata,Mobile App,Completed,S008
+O001792,2025-07-20,C00478,Central,Bengaluru,Website,Completed,S004
+O000153,2025-07-21,C00287,Central,Bengaluru,Marketplace,Completed,S007
+O000284,2025-07-21,C00312,North,Delhi,Website,Completed,S008
+O000359,2025-07-21,C00445,North,Delhi,Website,Completed,S010
+O000475,2025-07-21,C00382,South,Chennai,Mobile App,Completed,S007
+O001466,2025-07-21,C00375,West,Mumbai,Website,Completed,S009
+O001467,2025-07-21,C00091,North,Delhi,Mobile App,Completed,S007
+O000062,2025-07-22,C00208,Central,Bengaluru,Mobile App,Completed,S001
+O000170,2025-07-22,C00476,South,Chennai,Mobile App,Completed,S009
+O000353,2025-07-22,C00305,West,Mumbai,Marketplace,Completed,S005
+O000455,2025-07-22,C00436,West,Mumbai,Website,Completed,S001
+O000764,2025-07-22,C00135,West,Mumbai,Mobile App,Completed,S006
+O000952,2025-07-22,C00114,East,Kolkata,Mobile App,Cancelled,S007
+O001637,2025-07-22,C00556,Central,Bengaluru,Mobile App,Completed,S008
+O000158,2025-07-23,C00517,North,Delhi,Mobile App,Completed,S005
+O000361,2025-07-23,C00418,North,Delhi,Mobile App,Completed,S006
+O000486,2025-07-23,C00359,East,Kolkata,Website,Completed,S008
+O000511,2025-07-23,C00284,South,Chennai,Website,Completed,S001
+O001326,2025-07-23,C00294,South,Chennai,Marketplace,Completed,S009
+O001385,2025-07-23,C00468,North,Delhi,Marketplace,Completed,S009
+O000113,2025-07-24,C00451,West,Mumbai,Mobile App,Completed,S001
+O000822,2025-07-24,C00027,South,Chennai,Website,Completed,S002
+O000998,2025-07-24,C00397,South,Chennai,Mobile App,Cancelled,S005
+O001237,2025-07-24,C00001,North,Delhi,Website,Completed,S010
+O001794,2025-07-24,C00309,West,Mumbai,Website,Completed,S001
+O000140,2025-07-25,C00278,South,Chennai,Website,Completed,S006
+O000314,2025-07-25,C00373,North,Delhi,Website,Completed,S004
+O001173,2025-07-25,C00188,West,Mumbai,Marketplace,Completed,S010
+O001643,2025-07-25,C00190,Central,Bengaluru,Mobile App,Completed,S009
+O001674,2025-07-25,C00121,West,Mumbai,Mobile App,Completed,S004
+O000919,2025-07-26,C00422,South,Chennai,Website,Completed,S004
+O001018,2025-07-26,C00403,West,Mumbai,Marketplace,Completed,S010
+O001242,2025-07-26,C00299,South,Chennai,Marketplace,Completed,S005
+O001404,2025-07-26,C00364,East,Kolkata,Mobile App,Completed,S008
+O001418,2025-07-26,C00112,West,Mumbai,Website,Completed,S005
+O001602,2025-07-26,C00076,North,Delhi,Website,Completed,S010
+O001830,2025-07-26,C00155,West,Mumbai,Mobile App,Completed,S003
+O001968,2025-07-26,C00455,West,Mumbai,Mobile App,Completed,S004
+O000485,2025-07-27,C00550,West,Mumbai,Website,Completed,S006
+O000975,2025-07-27,C00254,West,Mumbai,Mobile App,Completed,S009
+O001067,2025-07-27,C00033,West,Mumbai,Mobile App,Completed,S001
+O001298,2025-07-27,C00210,Central,Bengaluru,Marketplace,Completed,S010
+O001864,2025-07-27,C00514,North,Delhi,Website,Completed,S008
+O000926,2025-07-28,C00238,North,Delhi,Website,Cancelled,S003
+O000742,2025-07-29,C00488,West,Mumbai,Marketplace,Completed,S008
+O000866,2025-07-29,C00095,West,Mumbai,Website,Completed,S008
+O000977,2025-07-29,C00485,North,Delhi,Marketplace,Completed,S005
+O001047,2025-07-29,C00584,North,Delhi,Mobile App,Completed,S001
+O001972,2025-07-29,C00069,West,Mumbai,Mobile App,Completed,S005
+O000022,2025-07-30,C00041,Central,Bengaluru,Website,Completed,S004
+O000295,2025-07-30,C00367,Central,Bengaluru,Website,Completed,S004
+O000704,2025-07-30,C00269,North,Delhi,Marketplace,Returned,S004
+O000730,2025-07-30,C00087,East,Kolkata,Mobile App,Completed,S008
+O000826,2025-07-30,C00538,South,Chennai,Website,Completed,S009
+O001068,2025-07-30,C00036,South,Chennai,Website,Completed,S002
+O001356,2025-07-30,C00508,East,Kolkata,Website,Completed,S007
+O001524,2025-07-30,C00153,North,Delhi,Mobile App,Completed,S003
+O001535,2025-07-30,C00127,East,Kolkata,Marketplace,Cancelled,S009
+O000636,2025-07-31,C00447,North,Delhi,Marketplace,Completed,S010
+O001089,2025-07-31,C00596,Central,Bengaluru,Marketplace,Completed,S005
+O001823,2025-07-31,C00029,East,Kolkata,Website,Completed,S008
+O000360,2025-08-01,C00011,Central,Bengaluru,Website,Completed,S007
+O000424,2025-08-01,C00280,North,Delhi,Marketplace,Completed,S009
+O000434,2025-08-01,C00031,South,Chennai,Website,Cancelled,S005
+O001041,2025-08-01,C00549,East,Kolkata,Marketplace,Completed,S002
+O001187,2025-08-01,C00048,Central,Bengaluru,Marketplace,Completed,S004
+O001544,2025-08-01,C00341,South,Chennai,Marketplace,Completed,S003
+O001644,2025-08-01,C00110,East,Kolkata,Marketplace,Completed,S002
+O000173,2025-08-02,C00419,Central,Bengaluru,Website,Cancelled,S006
+O000405,2025-08-02,C00521,Central,Bengaluru,Marketplace,Completed,S008
+O000458,2025-08-02,C00170,West,Mumbai,Website,Completed,S005
+O000626,2025-08-02,C00103,East,Kolkata,Website,Completed,S003
+O000862,2025-08-02,C00464,Central,Bengaluru,Marketplace,Completed,S003
+O001668,2025-08-02,C00306,North,Delhi,Mobile App,Cancelled,S005
+O001721,2025-08-02,C00277,South,Chennai,Marketplace,Completed,S002
+O000590,2025-08-03,C00296,West,Mumbai,Mobile App,Completed,S001
+O001409,2025-08-03,C00285,Central,Bengaluru,Marketplace,Completed,S003
+O001528,2025-08-03,C00363,East,Kolkata,Website,Returned,S004
+O001677,2025-08-03,C00109,North,Delhi,Mobile App,Completed,S007
+O001760,2025-08-03,C00488,South,Chennai,Mobile App,Completed,S009
+O000012,2025-08-04,C00003,East,Kolkata,Mobile App,Completed,S007
+O000037,2025-08-04,C00199,East,Kolkata,Mobile App,Completed,S002
+O000463,2025-08-04,C00313,East,Kolkata,Marketplace,Completed,S003
+O000791,2025-08-04,C00576,South,Chennai,Marketplace,Completed,S001
+O001026,2025-08-04,C00143,Central,Bengaluru,Marketplace,Completed,S004
+O001460,2025-08-04,C00047,East,Kolkata,Mobile App,Completed,S009
+O000761,2025-08-05,C00016,South,Chennai,Mobile App,Completed,S007
+O000776,2025-08-05,C00014,East,Kolkata,Mobile App,Completed,S006
+O000937,2025-08-05,C00189,West,Mumbai,Mobile App,Completed,S009
+O000958,2025-08-05,C00253,East,Kolkata,Mobile App,Completed,S007
+O001290,2025-08-05,C00022,South,Chennai,Website,Completed,S007
+O001457,2025-08-05,C00250,East,Kolkata,Marketplace,Returned,S002
+O000273,2025-08-06,C00457,East,Kolkata,Website,Completed,S001
+O000524,2025-08-06,C00306,East,Kolkata,Website,Completed,S002
+O001108,2025-08-06,C00382,East,Kolkata,Mobile App,Completed,S007
+O001398,2025-08-06,C00408,North,Delhi,Marketplace,Completed,S002
+O001711,2025-08-06,C00435,East,Kolkata,Mobile App,Cancelled,S007
+O001958,2025-08-06,C00355,Central,Bengaluru,Website,Completed,S006
+O000771,2025-08-07,C00548,West,Mumbai,Website,Completed,S010
+O000803,2025-08-07,C00359,North,Delhi,Website,Completed,S006
+O000297,2025-08-08,C00326,West,Mumbai,Marketplace,Completed,S005
+O001336,2025-08-08,C00401,North,Delhi,Mobile App,Completed,S010
+O001189,2025-08-09,C00331,East,Kolkata,Website,Completed,S007
+O001899,2025-08-09,C00069,Central,Bengaluru,Marketplace,Returned,S007
+O001015,2025-08-10,C00271,West,Mumbai,Mobile App,Completed,S006
+O001106,2025-08-10,C00511,North,Delhi,Website,Cancelled,S003
+O001214,2025-08-10,C00065,East,Kolkata,Mobile App,Completed,S004
+O001248,2025-08-10,C00034,North,Delhi,Website,Completed,S005
+O001805,2025-08-10,C00493,East,Kolkata,Website,Completed,S010
+O001912,2025-08-10,C00216,East,Kolkata,Mobile App,Completed,S010
+O000583,2025-08-11,C00328,Central,Bengaluru,Website,Completed,S004
+O000869,2025-08-11,C00249,North,Delhi,Website,Returned,S005
+O000877,2025-08-11,C00134,North,Delhi,Website,Completed,S010
+O001037,2025-08-11,C00105,South,Chennai,Website,Completed,S001
+O001205,2025-08-11,C00239,East,Kolkata,Mobile App,Completed,S004
+O000267,2025-08-12,C00316,North,Delhi,Mobile App,Cancelled,S003
+O000380,2025-08-12,C00302,West,Mumbai,Mobile App,Completed,S002
+O000522,2025-08-12,C00408,South,Chennai,Mobile App,Completed,S006
+O000538,2025-08-12,C00464,South,Chennai,Marketplace,Completed,S010
+O000623,2025-08-12,C00001,Central,Bengaluru,Website,Completed,S003
+O000860,2025-08-12,C00467,Central,Bengaluru,Mobile App,Completed,S009
+O000905,2025-08-12,C00301,North,Delhi,Mobile App,Completed,S006
+O001012,2025-08-12,C00155,Central,Bengaluru,Website,Completed,S001
+O001555,2025-08-12,C00323,South,Chennai,Website,Completed,S007
+O001595,2025-08-12,C00472,Central,Bengaluru,Marketplace,Completed,S009
+O001989,2025-08-12,C00050,East,Kolkata,Marketplace,Cancelled,S009
+O000789,2025-08-13,C00233,West,Mumbai,Marketplace,Completed,S001
+O001124,2025-08-13,C00143,West,Mumbai,Website,Completed,S004
+O001155,2025-08-13,C00057,East,Kolkata,Marketplace,Completed,S008
+O000064,2025-08-14,C00549,North,Delhi,Mobile App,Completed,S001
+O000488,2025-08-14,C00386,West,Mumbai,Website,Completed,S003
+O001102,2025-08-14,C00535,East,Kolkata,Marketplace,Completed,S002
+O000695,2025-08-15,C00319,South,Chennai,Mobile App,Completed,S006
+O001311,2025-08-15,C00156,South,Chennai,Marketplace,Completed,S008
+O001661,2025-08-15,C00020,East,Kolkata,Mobile App,Completed,S004
+O000389,2025-08-16,C00199,Central,Bengaluru,Website,Completed,S003
+O000681,2025-08-16,C00013,Central,Bengaluru,Marketplace,Completed,S003
+O000875,2025-08-16,C00321,West,Mumbai,Website,Completed,S005
+O001355,2025-08-16,C00141,South,Chennai,Website,Cancelled,S010
+O001429,2025-08-16,C00171,North,Delhi,Marketplace,Completed,S009
+O001607,2025-08-16,C00335,East,Kolkata,Marketplace,Completed,S005
+O001698,2025-08-16,C00527,East,Kolkata,Mobile App,Cancelled,S009
+O000247,2025-08-17,C00490,Central,Bengaluru,Mobile App,Completed,S009
+O000474,2025-08-17,C00301,East,Kolkata,Website,Completed,S010
+O000645,2025-08-17,C00508,South,Chennai,Website,Completed,S003
+O000970,2025-08-17,C00439,West,Mumbai,Mobile App,Completed,S004
+O001568,2025-08-17,C00053,North,Delhi,Website,Returned,S003
+O001631,2025-08-17,C00515,East,Kolkata,Marketplace,Completed,S010
+O001648,2025-08-17,C00283,West,Mumbai,Marketplace,Completed,S008
+O001688,2025-08-17,C00391,West,Mumbai,Website,Completed,S002
+O000324,2025-08-18,C00595,Central,Bengaluru,Mobile App,Completed,S008
+O000939,2025-08-18,C00391,West,Mumbai,Website,Completed,S005
+O001652,2025-08-18,C00424,South,Chennai,Website,Completed,S007
+O001861,2025-08-18,C00328,South,Chennai,Website,Cancelled,S007
+O000677,2025-08-19,C00526,South,Chennai,Marketplace,Completed,S001
+O000854,2025-08-19,C00240,North,Delhi,Marketplace,Completed,S007
+O001053,2025-08-19,C00103,South,Chennai,Marketplace,Completed,S002
+O001365,2025-08-19,C00515,North,Delhi,Marketplace,Completed,S004
+O001436,2025-08-19,C00038,West,Mumbai,Marketplace,Completed,S007
+O000775,2025-08-20,C00006,South,Chennai,Website,Completed,S005
+O001020,2025-08-20,C00079,Central,Bengaluru,Marketplace,Completed,S003
+O001414,2025-08-20,C00502,South,Chennai,Website,Completed,S004
+O001776,2025-08-20,C00423,Central,Bengaluru,Website,Completed,S009
+O001810,2025-08-20,C00455,South,Chennai,Mobile App,Completed,S007
+O000002,2025-08-21,C00321,South,Chennai,Website,Completed,S002
+O000574,2025-08-21,C00454,West,Mumbai,Website,Completed,S004
+O000867,2025-08-21,C00568,South,Chennai,Marketplace,Completed,S006
+O000982,2025-08-21,C00299,Central,Bengaluru,Website,Completed,S003
+O001172,2025-08-21,C00036,East,Kolkata,Mobile App,Completed,S006
+O001235,2025-08-21,C00108,North,Delhi,Marketplace,Completed,S005
+O001289,2025-08-21,C00382,East,Kolkata,Marketplace,Completed,S004
+O001370,2025-08-21,C00504,South,Chennai,Marketplace,Completed,S007
+O001560,2025-08-21,C00423,East,Kolkata,Website,Completed,S010
+O000344,2025-08-22,C00121,East,Kolkata,Marketplace,Cancelled,S004
+O000589,2025-08-22,C00385,East,Kolkata,Marketplace,Completed,S001
+O001946,2025-08-22,C00445,West,Mumbai,Mobile App,Completed,S004
+O000494,2025-08-23,C00063,North,Delhi,Marketplace,Completed,S003
+O000632,2025-08-23,C00346,North,Delhi,Marketplace,Cancelled,S003
+O000868,2025-08-23,C00574,North,Delhi,Mobile App,Completed,S004
+O001129,2025-08-23,C00092,North,Delhi,Mobile App,Completed,S001
+O001497,2025-08-23,C00036,South,Chennai,Mobile App,Completed,S003
+O000219,2025-08-24,C00440,West,Mumbai,Website,Returned,S004
+O000307,2025-08-24,C00079,East,Kolkata,Website,Completed,S003
+O000553,2025-08-24,C00580,East,Kolkata,Marketplace,Completed,S005
+O001374,2025-08-24,C00191,North,Delhi,Mobile App,Completed,S006
+O001723,2025-08-24,C00528,West,Mumbai,Website,Completed,S005
+O001980,2025-08-24,C00366,North,Delhi,Mobile App,Completed,S006
+O000334,2025-08-25,C00105,Central,Bengaluru,Marketplace,Completed,S005
+O000676,2025-08-25,C00331,East,Kolkata,Mobile App,Completed,S006
+O000825,2025-08-25,C00408,South,Chennai,Mobile App,Completed,S002
+O001300,2025-08-25,C00033,Central,Bengaluru,Marketplace,Cancelled,S005
+O001789,2025-08-25,C00066,Central,Bengaluru,Marketplace,Completed,S004
+O000057,2025-08-26,C00207,Central,Bengaluru,Mobile App,Completed,S003
+O000387,2025-08-26,C00194,West,Mumbai,Marketplace,Completed,S003
+O000427,2025-08-26,C00242,Central,Bengaluru,Mobile App,Completed,S006
+O001069,2025-08-26,C00428,North,Delhi,Marketplace,Completed,S007
+O001372,2025-08-26,C00066,West,Mumbai,Marketplace,Completed,S007
+O001570,2025-08-26,C00519,West,Mumbai,Marketplace,Completed,S009
+O001735,2025-08-26,C00184,Central,Bengaluru,Website,Completed,S004
+O001962,2025-08-26,C00222,West,Mumbai,Website,Returned,S005
+O000164,2025-08-27,C00419,North,Delhi,Website,Completed,S006
+O000198,2025-08-27,C00164,Central,Bengaluru,Website,Completed,S001
+O001070,2025-08-27,C00517,North,Delhi,Marketplace,Completed,S002
+O001107,2025-08-27,C00573,West,Mumbai,Marketplace,Completed,S010
+O001147,2025-08-27,C00212,South,Chennai,Marketplace,Completed,S002
+O000600,2025-08-28,C00272,North,Delhi,Marketplace,Completed,S008
+O001715,2025-08-28,C00582,North,Delhi,Mobile App,Completed,S008
+O001731,2025-08-28,C00334,South,Chennai,Website,Completed,S004
+O001999,2025-08-28,C00251,Central,Bengaluru,Marketplace,Completed,S002
+O000035,2025-08-29,C00284,North,Delhi,Mobile App,Cancelled,S004
+O000103,2025-08-29,C00134,East,Kolkata,Website,Returned,S006
+O000237,2025-08-29,C00457,Central,Bengaluru,Marketplace,Completed,S003
+O000253,2025-08-29,C00428,Central,Bengaluru,Marketplace,Completed,S008
+O000443,2025-08-29,C00002,East,Kolkata,Mobile App,Completed,S001
+O000842,2025-08-29,C00540,Central,Bengaluru,Mobile App,Completed,S006
+O000083,2025-08-30,C00577,Central,Bengaluru,Mobile App,Completed,S005
+O000385,2025-08-30,C00447,West,Mumbai,Marketplace,Completed,S007
+O000778,2025-08-30,C00134,Central,Bengaluru,Mobile App,Completed,S003
+O001330,2025-08-30,C00009,Central,Bengaluru,Mobile App,Completed,S004
+O001808,2025-08-30,C00501,East,Kolkata,Mobile App,Completed,S002
+O001178,2025-08-31,C00284,North,Delhi,Website,Completed,S008
+O001516,2025-08-31,C00567,Central,Bengaluru,Marketplace,Completed,S005
+O001600,2025-08-31,C00324,North,Delhi,Mobile App,Completed,S003
+O000061,2025-09-01,C00481,East,Kolkata,Mobile App,Completed,S004
+O000495,2025-09-01,C00208,Central,Bengaluru,Marketplace,Completed,S001
+O000535,2025-09-01,C00279,North,Delhi,Website,Completed,S003
+O001302,2025-09-01,C00239,Central,Bengaluru,Website,Completed,S008
+O001452,2025-09-01,C00416,South,Chennai,Marketplace,Cancelled,S005
+O001967,2025-09-01,C00075,East,Kolkata,Mobile App,Completed,S008
+O001973,2025-09-01,C00095,North,Delhi,Mobile App,Completed,S004
+O000489,2025-09-02,C00427,North,Delhi,Website,Completed,S006
+O001074,2025-09-02,C00165,Central,Bengaluru,Mobile App,Completed,S005
+O001236,2025-09-02,C00069,South,Chennai,Website,Completed,S004
+O001077,2025-09-03,C00181,North,Delhi,Marketplace,Completed,S010
+O001271,2025-09-03,C00361,Central,Bengaluru,Website,Completed,S009
+O000055,2025-09-04,C00001,South,Chennai,Mobile App,Completed,S009
+O000123,2025-09-04,C00272,East,Kolkata,Marketplace,Completed,S007
+O000294,2025-09-04,C00133,Central,Bengaluru,Website,Completed,S010
+O000934,2025-09-04,C00539,West,Mumbai,Website,Completed,S004
+O001258,2025-09-04,C00422,West,Mumbai,Website,Completed,S010
+O001419,2025-09-04,C00005,North,Delhi,Marketplace,Completed,S004
+O001533,2025-09-04,C00308,South,Chennai,Mobile App,Completed,S006
+O001579,2025-09-04,C00311,West,Mumbai,Mobile App,Completed,S007
+O001672,2025-09-04,C00338,North,Delhi,Marketplace,Completed,S004
+O001835,2025-09-04,C00348,East,Kolkata,Mobile App,Completed,S001
+O001900,2025-09-05,C00026,South,Chennai,Mobile App,Completed,S010
+O001970,2025-09-05,C00106,North,Delhi,Website,Completed,S006
+O000573,2025-09-06,C00457,East,Kolkata,Marketplace,Completed,S001
+O001239,2025-09-06,C00520,South,Chennai,Marketplace,Completed,S007
+O001827,2025-09-06,C00493,West,Mumbai,Mobile App,Completed,S007
+O001963,2025-09-06,C00465,South,Chennai,Mobile App,Completed,S005
+O000879,2025-09-07,C00109,West,Mumbai,Mobile App,Completed,S008
+O001321,2025-09-07,C00286,Central,Bengaluru,Website,Completed,S005
+O001646,2025-09-07,C00193,North,Delhi,Marketplace,Completed,S009
+O000041,2025-09-08,C00241,East,Kolkata,Marketplace,Completed,S007
+O000122,2025-09-08,C00554,North,Delhi,Mobile App,Completed,S009
+O000311,2025-09-08,C00478,West,Mumbai,Mobile App,Completed,S007
+O000325,2025-09-08,C00224,East,Kolkata,Website,Completed,S006
+O000412,2025-09-08,C00332,West,Mumbai,Website,Completed,S009
+O001491,2025-09-08,C00109,South,Chennai,Marketplace,Completed,S006
+O001941,2025-09-08,C00223,North,Delhi,Marketplace,Completed,S004
+O000068,2025-09-09,C00401,West,Mumbai,Marketplace,Completed,S007
+O000196,2025-09-09,C00340,South,Chennai,Website,Completed,S002
+O000579,2025-09-09,C00302,West,Mumbai,Marketplace,Completed,S009
+O000927,2025-09-09,C00339,West,Mumbai,Website,Completed,S001
+O000965,2025-09-09,C00221,South,Chennai,Mobile App,Completed,S001
+O000924,2025-09-10,C00198,East,Kolkata,Mobile App,Completed,S010
+O000933,2025-09-10,C00539,South,Chennai,Website,Completed,S004
+O001182,2025-09-10,C00137,East,Kolkata,Marketplace,Completed,S004
+O001228,2025-09-10,C00080,South,Chennai,Website,Completed,S001
+O001862,2025-09-10,C00127,West,Mumbai,Mobile App,Completed,S002
+O001993,2025-09-10,C00248,North,Delhi,Mobile App,Completed,S008
+O000160,2025-09-11,C00371,North,Delhi,Website,Completed,S009
+O001458,2025-09-11,C00151,North,Delhi,Mobile App,Completed,S002
+O001502,2025-09-11,C00274,Central,Bengaluru,Website,Completed,S007
+O001550,2025-09-11,C00216,West,Mumbai,Marketplace,Completed,S004
+O000167,2025-09-12,C00519,South,Chennai,Mobile App,Completed,S001
+O000231,2025-09-12,C00426,Central,Bengaluru,Website,Cancelled,S001
+O000460,2025-09-12,C00077,West,Mumbai,Mobile App,Completed,S008
+O000464,2025-09-12,C00114,Central,Bengaluru,Website,Completed,S008
+O000492,2025-09-12,C00536,East,Kolkata,Marketplace,Completed,S009
+O001046,2025-09-12,C00176,Central,Bengaluru,Mobile App,Completed,S003
+O001653,2025-09-12,C00504,Central,Bengaluru,Marketplace,Completed,S008
+O001811,2025-09-12,C00566,East,Kolkata,Website,Completed,S008
+O001991,2025-09-12,C00528,West,Mumbai,Marketplace,Returned,S004
+O000274,2025-09-13,C00563,West,Mumbai,Marketplace,Completed,S001
+O000362,2025-09-13,C00427,East,Kolkata,Website,Completed,S008
+O000707,2025-09-13,C00055,North,Delhi,Marketplace,Completed,S008
+O001138,2025-09-13,C00407,Central,Bengaluru,Website,Completed,S004
+O001333,2025-09-13,C00408,South,Chennai,Mobile App,Completed,S001
+O001565,2025-09-13,C00326,West,Mumbai,Website,Completed,S001
+O000040,2025-09-14,C00367,East,Kolkata,Website,Completed,S007
+O000758,2025-09-14,C00325,North,Delhi,Marketplace,Completed,S008
+O000856,2025-09-14,C00460,Central,Bengaluru,Website,Completed,S009
+O001141,2025-09-14,C00032,North,Delhi,Website,Completed,S008
+O001492,2025-09-14,C00224,North,Delhi,Website,Completed,S005
+O001730,2025-09-14,C00268,North,Delhi,Website,Completed,S002
+O000233,2025-09-15,C00003,Central,Bengaluru,Mobile App,Completed,S007
+O000313,2025-09-15,C00282,North,Delhi,Marketplace,Completed,S007
+O000576,2025-09-15,C00270,East,Kolkata,Mobile App,Completed,S002
+O000846,2025-09-15,C00403,West,Mumbai,Marketplace,Completed,S002
+O000999,2025-09-15,C00593,South,Chennai,Website,Cancelled,S002
+O001055,2025-09-15,C00176,East,Kolkata,Mobile App,Completed,S005
+O001394,2025-09-15,C00244,East,Kolkata,Marketplace,Cancelled,S010
+O000542,2025-09-16,C00029,West,Mumbai,Marketplace,Completed,S003
+O000873,2025-09-16,C00592,North,Delhi,Website,Cancelled,S005
+O001171,2025-09-16,C00210,East,Kolkata,Website,Returned,S001
+O001334,2025-09-16,C00545,North,Delhi,Marketplace,Cancelled,S001
+O001383,2025-09-16,C00272,South,Chennai,Mobile App,Completed,S001
+O000616,2025-09-17,C00531,Central,Bengaluru,Mobile App,Completed,S005
+O001976,2025-09-17,C00162,Central,Bengaluru,Marketplace,Cancelled,S010
+O000048,2025-09-18,C00134,Central,Bengaluru,Marketplace,Completed,S003
+O000601,2025-09-18,C00380,North,Delhi,Mobile App,Completed,S008
+O001551,2025-09-18,C00176,Central,Bengaluru,Mobile App,Completed,S009
+O001812,2025-09-18,C00586,West,Mumbai,Marketplace,Returned,S008
+O000299,2025-09-19,C00575,Central,Bengaluru,Marketplace,Completed,S006
+O000363,2025-09-19,C00528,East,Kolkata,Website,Completed,S005
+O000484,2025-09-19,C00571,East,Kolkata,Website,Completed,S003
+O000741,2025-09-19,C00506,South,Chennai,Mobile App,Completed,S003
+O001880,2025-09-19,C00542,West,Mumbai,Website,Completed,S001
+O000215,2025-09-20,C00167,South,Chennai,Mobile App,Completed,S004
+O000228,2025-09-20,C00448,West,Mumbai,Website,Completed,S005
+O000365,2025-09-20,C00121,East,Kolkata,Website,Completed,S006
+O000550,2025-09-20,C00111,East,Kolkata,Website,Completed,S002
+O000627,2025-09-20,C00257,South,Chennai,Website,Completed,S007
+O000911,2025-09-20,C00093,North,Delhi,Marketplace,Completed,S008
+O000990,2025-09-20,C00467,South,Chennai,Mobile App,Completed,S006
+O001294,2025-09-20,C00448,East,Kolkata,Mobile App,Completed,S008
+O001371,2025-09-20,C00433,East,Kolkata,Website,Completed,S010
+O001780,2025-09-20,C00369,North,Delhi,Website,Completed,S003
+O000072,2025-09-21,C00523,East,Kolkata,Mobile App,Cancelled,S008
+O001006,2025-09-21,C00446,South,Chennai,Marketplace,Completed,S001
+O001279,2025-09-21,C00102,Central,Bengaluru,Marketplace,Completed,S004
+O001288,2025-09-21,C00504,South,Chennai,Marketplace,Completed,S006
+O001417,2025-09-21,C00185,Central,Bengaluru,Mobile App,Completed,S004
+O001593,2025-09-21,C00224,East,Kolkata,Website,Completed,S008
+O001897,2025-09-21,C00243,South,Chennai,Marketplace,Completed,S002
+O000124,2025-09-22,C00572,Central,Bengaluru,Mobile App,Completed,S004
+O000270,2025-09-22,C00599,North,Delhi,Website,Completed,S006
+O000345,2025-09-22,C00420,Central,Bengaluru,Mobile App,Completed,S010
+O000382,2025-09-22,C00043,South,Chennai,Website,Completed,S001
+O000533,2025-09-22,C00033,South,Chennai,Mobile App,Completed,S001
+O000635,2025-09-22,C00459,South,Chennai,Website,Completed,S007
+O001027,2025-09-22,C00533,Central,Bengaluru,Marketplace,Completed,S009
+O001043,2025-09-22,C00515,North,Delhi,Mobile App,Completed,S007
+O001109,2025-09-22,C00273,West,Mumbai,Mobile App,Completed,S003
+O001937,2025-09-22,C00162,West,Mumbai,Website,Completed,S010
+O000296,2025-09-23,C00457,East,Kolkata,Website,Completed,S006
+O000505,2025-09-23,C00499,West,Mumbai,Mobile App,Completed,S008
+O000551,2025-09-23,C00394,West,Mumbai,Mobile App,Completed,S001
+O000604,2025-09-23,C00451,West,Mumbai,Mobile App,Completed,S006
+O001085,2025-09-23,C00360,East,Kolkata,Website,Completed,S004
+O001148,2025-09-23,C00269,Central,Bengaluru,Mobile App,Cancelled,S002
+O000096,2025-09-24,C00059,Central,Bengaluru,Website,Completed,S003
+O000301,2025-09-24,C00286,Central,Bengaluru,Marketplace,Completed,S010
+O000610,2025-09-24,C00423,Central,Bengaluru,Website,Completed,S008
+O000746,2025-09-24,C00413,North,Delhi,Mobile App,Completed,S008
+O000829,2025-09-24,C00270,East,Kolkata,Marketplace,Completed,S004
+O000834,2025-09-24,C00447,East,Kolkata,Mobile App,Cancelled,S002
+O001364,2025-09-24,C00400,North,Delhi,Website,Completed,S003
+O001366,2025-09-24,C00387,South,Chennai,Marketplace,Completed,S010
+O001378,2025-09-24,C00582,North,Delhi,Marketplace,Completed,S010
+O001598,2025-09-24,C00220,East,Kolkata,Mobile App,Completed,S007
+O001642,2025-09-24,C00574,North,Delhi,Mobile App,Completed,S003
+O001940,2025-09-24,C00453,South,Chennai,Marketplace,Completed,S001
+O000038,2025-09-25,C00533,West,Mumbai,Website,Completed,S009
+O000129,2025-09-25,C00105,Central,Bengaluru,Marketplace,Completed,S005
+O000644,2025-09-25,C00512,North,Delhi,Website,Completed,S008
+O001682,2025-09-25,C00358,Central,Bengaluru,Mobile App,Completed,S007
+O001729,2025-09-25,C00124,South,Chennai,Mobile App,Completed,S008
+O001832,2025-09-25,C00464,Central,Bengaluru,Website,Completed,S003
+O001882,2025-09-25,C00383,South,Chennai,Mobile App,Completed,S007
+O000102,2025-09-26,C00314,South,Chennai,Mobile App,Completed,S008
+O000466,2025-09-26,C00236,North,Delhi,Marketplace,Completed,S006
+O000555,2025-09-26,C00366,Central,Bengaluru,Mobile App,Completed,S004
+O001028,2025-09-26,C00451,East,Kolkata,Mobile App,Completed,S003
+O001064,2025-09-26,C00017,West,Mumbai,Marketplace,Completed,S002
+O001092,2025-09-26,C00266,South,Chennai,Mobile App,Completed,S009
+O001875,2025-09-26,C00377,North,Delhi,Website,Completed,S006
+O000115,2025-09-27,C00310,East,Kolkata,Mobile App,Completed,S010
+O000558,2025-09-27,C00374,West,Mumbai,Marketplace,Completed,S002
+O000827,2025-09-27,C00021,East,Kolkata,Mobile App,Completed,S004
+O001134,2025-09-27,C00170,South,Chennai,Website,Completed,S006
+O001199,2025-09-27,C00243,North,Delhi,Mobile App,Completed,S004
+O001253,2025-09-27,C00142,West,Mumbai,Website,Completed,S009
+O001459,2025-09-27,C00029,West,Mumbai,Marketplace,Completed,S004
+O001892,2025-09-27,C00455,East,Kolkata,Mobile App,Completed,S005
+O000684,2025-09-28,C00083,West,Mumbai,Mobile App,Completed,S001
+O000956,2025-09-28,C00568,East,Kolkata,Mobile App,Completed,S006
+O001125,2025-09-28,C00534,North,Delhi,Mobile App,Completed,S005
+O001363,2025-09-28,C00264,North,Delhi,Website,Completed,S007
+O000781,2025-09-29,C00109,South,Chennai,Website,Completed,S002
+O000142,2025-09-30,C00485,South,Chennai,Website,Cancelled,S007
+O000370,2025-09-30,C00483,East,Kolkata,Marketplace,Completed,S004
+O001084,2025-09-30,C00158,West,Mumbai,Mobile App,Completed,S009
+O001170,2025-09-30,C00211,West,Mumbai,Website,Completed,S005
+O001208,2025-09-30,C00545,Central,Bengaluru,Mobile App,Completed,S003
+O001507,2025-09-30,C00187,North,Delhi,Marketplace,Completed,S003
+O000036,2025-10-01,C00319,East,Kolkata,Website,Completed,S004
+O000101,2025-10-01,C00071,East,Kolkata,Website,Completed,S006
+O001448,2025-10-01,C00085,South,Chennai,Marketplace,Completed,S009
+O001838,2025-10-01,C00411,West,Mumbai,Marketplace,Completed,S003
+O000347,2025-10-02,C00037,West,Mumbai,Marketplace,Completed,S003
+O001590,2025-10-02,C00285,West,Mumbai,Mobile App,Completed,S009
+O001024,2025-10-03,C00073,Central,Bengaluru,Marketplace,Completed,S005
+O001110,2025-10-03,C00205,Central,Bengaluru,Website,Completed,S005
+O001151,2025-10-03,C00268,North,Delhi,Website,Completed,S007
+O001222,2025-10-03,C00005,North,Delhi,Marketplace,Completed,S002
+O001316,2025-10-03,C00469,East,Kolkata,Mobile App,Completed,S001
+O001605,2025-10-03,C00089,North,Delhi,Marketplace,Completed,S008
+O001762,2025-10-03,C00433,Central,Bengaluru,Website,Completed,S008
+O000453,2025-10-04,C00432,Central,Bengaluru,Mobile App,Completed,S008
+O001329,2025-10-04,C00030,North,Delhi,Website,Completed,S008
+O001388,2025-10-04,C00313,South,Chennai,Marketplace,Completed,S001
+O001519,2025-10-04,C00540,Central,Bengaluru,Website,Completed,S010
+O001817,2025-10-04,C00432,South,Chennai,Marketplace,Cancelled,S001
+O000144,2025-10-05,C00495,South,Chennai,Website,Completed,S004
+O000449,2025-10-05,C00437,West,Mumbai,Website,Completed,S004
+O000525,2025-10-05,C00007,Central,Bengaluru,Mobile App,Completed,S002
+O000628,2025-10-05,C00237,Central,Bengaluru,Marketplace,Completed,S009
+O000821,2025-10-05,C00014,Central,Bengaluru,Mobile App,Completed,S004
+O000885,2025-10-05,C00501,East,Kolkata,Marketplace,Completed,S008
+O001654,2025-10-05,C00114,West,Mumbai,Website,Completed,S008
+O000162,2025-10-06,C00165,South,Chennai,Website,Completed,S002
+O000293,2025-10-06,C00547,South,Chennai,Website,Completed,S006
+O000468,2025-10-06,C00554,West,Mumbai,Marketplace,Completed,S002
+O000602,2025-10-06,C00409,East,Kolkata,Mobile App,Cancelled,S009
+O001681,2025-10-06,C00497,East,Kolkata,Mobile App,Completed,S008
+O001772,2025-10-06,C00268,West,Mumbai,Marketplace,Cancelled,S005
+O001839,2025-10-06,C00369,North,Delhi,Mobile App,Completed,S003
+O000146,2025-10-07,C00538,East,Kolkata,Website,Completed,S008
+O000376,2025-10-07,C00599,South,Chennai,Mobile App,Completed,S009
+O000437,2025-10-07,C00304,East,Kolkata,Mobile App,Completed,S004
+O001120,2025-10-07,C00292,Central,Bengaluru,Mobile App,Completed,S001
+O001160,2025-10-07,C00522,South,Chennai,Website,Completed,S007
+O001511,2025-10-07,C00305,West,Mumbai,Marketplace,Completed,S006
+O000720,2025-10-08,C00567,Central,Bengaluru,Marketplace,Cancelled,S007
+O001065,2025-10-08,C00599,East,Kolkata,Mobile App,Completed,S008
+O001132,2025-10-08,C00153,Central,Bengaluru,Mobile App,Completed,S002
+O000377,2025-10-09,C00274,West,Mumbai,Marketplace,Completed,S005
+O000504,2025-10-09,C00312,West,Mumbai,Mobile App,Completed,S007
+O001194,2025-10-09,C00553,Central,Bengaluru,Mobile App,Completed,S004
+O001442,2025-10-09,C00471,South,Chennai,Mobile App,Completed,S010
+O001891,2025-10-09,C00014,South,Chennai,Mobile App,Completed,S010
+O000440,2025-10-10,C00462,East,Kolkata,Website,Completed,S001
+O000467,2025-10-10,C00114,East,Kolkata,Website,Completed,S005
+O000766,2025-10-10,C00566,East,Kolkata,Website,Completed,S008
+O000806,2025-10-10,C00183,Central,Bengaluru,Website,Completed,S007
+O001472,2025-10-10,C00351,North,Delhi,Website,Completed,S007
+O000980,2025-10-11,C00265,West,Mumbai,Mobile App,Completed,S006
+O001163,2025-10-11,C00038,West,Mumbai,Mobile App,Cancelled,S004
+O001391,2025-10-11,C00561,South,Chennai,Website,Completed,S005
+O001453,2025-10-11,C00492,North,Delhi,Mobile App,Completed,S009
+O001495,2025-10-11,C00108,North,Delhi,Website,Completed,S001
+O001919,2025-10-11,C00202,West,Mumbai,Mobile App,Completed,S008
+O000401,2025-10-12,C00043,East,Kolkata,Mobile App,Completed,S005
+O000461,2025-10-12,C00377,Central,Bengaluru,Mobile App,Cancelled,S004
+O000552,2025-10-12,C00162,East,Kolkata,Mobile App,Returned,S004
+O000617,2025-10-12,C00401,East,Kolkata,Website,Completed,S010
+O001005,2025-10-12,C00515,South,Chennai,Marketplace,Completed,S009
+O001709,2025-10-12,C00155,South,Chennai,Mobile App,Completed,S005
+O001915,2025-10-12,C00178,North,Delhi,Marketplace,Completed,S002
+O001956,2025-10-12,C00057,Central,Bengaluru,Marketplace,Completed,S004
+O001961,2025-10-12,C00153,West,Mumbai,Mobile App,Completed,S010
+O000100,2025-10-13,C00438,North,Delhi,Website,Completed,S009
+O000630,2025-10-13,C00485,North,Delhi,Website,Completed,S009
+O000959,2025-10-13,C00389,Central,Bengaluru,Marketplace,Completed,S006
+O001277,2025-10-13,C00348,West,Mumbai,Mobile App,Cancelled,S007
+O001846,2025-10-13,C00398,South,Chennai,Website,Completed,S007
+O000509,2025-10-14,C00519,Central,Bengaluru,Marketplace,Completed,S003
+O000724,2025-10-14,C00539,East,Kolkata,Marketplace,Completed,S004
+O001011,2025-10-14,C00227,Central,Bengaluru,Website,Cancelled,S007
+O001716,2025-10-14,C00594,East,Kolkata,Mobile App,Completed,S003
+O001724,2025-10-14,C00336,North,Delhi,Website,Cancelled,S003
+O001907,2025-10-14,C00556,East,Kolkata,Marketplace,Completed,S003
+O000358,2025-10-15,C00239,West,Mumbai,Marketplace,Completed,S006
+O000404,2025-10-15,C00281,North,Delhi,Website,Completed,S008
+O000588,2025-10-15,C00200,East,Kolkata,Website,Completed,S002
+O000913,2025-10-15,C00186,East,Kolkata,Marketplace,Completed,S009
+O000234,2025-10-16,C00293,South,Chennai,Website,Completed,S009
+O000241,2025-10-16,C00411,East,Kolkata,Website,Completed,S003
+O000670,2025-10-16,C00012,Central,Bengaluru,Website,Completed,S001
+O001304,2025-10-16,C00531,Central,Bengaluru,Marketplace,Completed,S009
+O001450,2025-10-16,C00399,Central,Bengaluru,Marketplace,Cancelled,S009
+O001567,2025-10-16,C00175,South,Chennai,Marketplace,Completed,S008
+O000015,2025-10-17,C00159,East,Kolkata,Website,Returned,S010
+O000414,2025-10-17,C00193,South,Chennai,Mobile App,Completed,S009
+O000714,2025-10-17,C00470,South,Chennai,Website,Completed,S008
+O000765,2025-10-17,C00233,North,Delhi,Website,Completed,S006
+O000894,2025-10-17,C00537,Central,Bengaluru,Mobile App,Completed,S002
+O001314,2025-10-17,C00289,South,Chennai,Marketplace,Completed,S006
+O001421,2025-10-17,C00565,West,Mumbai,Mobile App,Completed,S003
+O001522,2025-10-17,C00245,East,Kolkata,Website,Completed,S010
+O001740,2025-10-17,C00551,North,Delhi,Website,Completed,S007
+O001894,2025-10-17,C00288,East,Kolkata,Mobile App,Completed,S001
+O000097,2025-10-18,C00482,East,Kolkata,Mobile App,Completed,S003
+O000264,2025-10-18,C00465,Central,Bengaluru,Marketplace,Completed,S001
+O000472,2025-10-18,C00312,Central,Bengaluru,Mobile App,Completed,S007
+O000491,2025-10-18,C00470,West,Mumbai,Marketplace,Completed,S008
+O001035,2025-10-18,C00126,East,Kolkata,Marketplace,Completed,S009
+O001197,2025-10-18,C00371,West,Mumbai,Website,Completed,S010
+O001291,2025-10-18,C00296,Central,Bengaluru,Marketplace,Completed,S009
+O001387,2025-10-18,C00489,East,Kolkata,Marketplace,Completed,S005
+O001746,2025-10-18,C00524,North,Delhi,Marketplace,Completed,S006
+O001813,2025-10-18,C00065,West,Mumbai,Marketplace,Completed,S002
+O000034,2025-10-19,C00473,North,Delhi,Mobile App,Completed,S005
+O000175,2025-10-19,C00016,West,Mumbai,Mobile App,Completed,S008
+O001647,2025-10-19,C00332,West,Mumbai,Website,Completed,S007
+O000058,2025-10-20,C00420,Central,Bengaluru,Website,Cancelled,S008
+O000351,2025-10-20,C00090,South,Chennai,Mobile App,Completed,S006
+O000734,2025-10-20,C00156,Central,Bengaluru,Website,Completed,S006
+O000773,2025-10-20,C00525,North,Delhi,Marketplace,Completed,S005
+O001128,2025-10-20,C00312,North,Delhi,Mobile App,Completed,S008
+O001876,2025-10-20,C00066,North,Delhi,Mobile App,Completed,S005
+O001435,2025-10-21,C00095,North,Delhi,Marketplace,Completed,S004
+O001588,2025-10-21,C00054,West,Mumbai,Website,Completed,S009
+O001601,2025-10-21,C00019,South,Chennai,Marketplace,Completed,S009
+O001966,2025-10-21,C00158,North,Delhi,Mobile App,Completed,S010
+O000182,2025-10-22,C00176,South,Chennai,Marketplace,Completed,S005
+O000244,2025-10-22,C00290,North,Delhi,Website,Completed,S001
+O000496,2025-10-22,C00466,Central,Bengaluru,Website,Completed,S007
+O000598,2025-10-22,C00216,West,Mumbai,Mobile App,Completed,S005
+O000612,2025-10-23,C00223,West,Mumbai,Website,Completed,S007
+O001574,2025-10-23,C00550,West,Mumbai,Mobile App,Completed,S009
+O001708,2025-10-23,C00292,Central,Bengaluru,Marketplace,Completed,S010
+O000503,2025-10-24,C00472,Central,Bengaluru,Marketplace,Completed,S010
+O000890,2025-10-24,C00516,North,Delhi,Marketplace,Completed,S001
+O000903,2025-10-24,C00598,South,Chennai,Mobile App,Completed,S006
+O000967,2025-10-24,C00194,Central,Bengaluru,Mobile App,Completed,S003
+O000718,2025-10-25,C00231,North,Delhi,Mobile App,Completed,S003
+O000719,2025-10-25,C00250,Central,Bengaluru,Marketplace,Cancelled,S004
+O001048,2025-10-25,C00260,South,Chennai,Mobile App,Completed,S009
+O001118,2025-10-25,C00177,Central,Bengaluru,Mobile App,Completed,S008
+O001434,2025-10-25,C00100,West,Mumbai,Website,Cancelled,S002
+O000410,2025-10-26,C00010,North,Delhi,Marketplace,Completed,S005
+O000797,2025-10-26,C00514,South,Chennai,Mobile App,Completed,S008
+O000983,2025-10-26,C00202,West,Mumbai,Marketplace,Completed,S007
+O001506,2025-10-26,C00257,West,Mumbai,Mobile App,Completed,S007
+O001752,2025-10-26,C00076,West,Mumbai,Mobile App,Completed,S004
+O000286,2025-10-27,C00448,West,Mumbai,Website,Completed,S008
+O000528,2025-10-27,C00280,Central,Bengaluru,Mobile App,Completed,S009
+O000082,2025-10-28,C00470,West,Mumbai,Mobile App,Completed,S007
+O000201,2025-10-29,C00577,North,Delhi,Website,Completed,S004
+O000841,2025-10-29,C00466,North,Delhi,Website,Completed,S004
+O001296,2025-10-29,C00547,Central,Bengaluru,Mobile App,Completed,S005
+O001493,2025-10-29,C00532,North,Delhi,Marketplace,Completed,S008
+O001914,2025-10-29,C00024,West,Mumbai,Marketplace,Completed,S004
+O000180,2025-10-30,C00032,Central,Bengaluru,Mobile App,Cancelled,S010
+O000780,2025-10-30,C00200,Central,Bengaluru,Mobile App,Completed,S004
+O001183,2025-10-30,C00094,East,Kolkata,Website,Completed,S003
+O001381,2025-10-30,C00227,Central,Bengaluru,Mobile App,Completed,S005
+O001833,2025-10-30,C00297,West,Mumbai,Marketplace,Completed,S005
+O001908,2025-10-30,C00457,North,Delhi,Mobile App,Completed,S009
+O000611,2025-10-31,C00519,Central,Bengaluru,Mobile App,Completed,S006
+O001101,2025-10-31,C00501,South,Chennai,Website,Completed,S009
+O001193,2025-10-31,C00048,South,Chennai,Mobile App,Completed,S005
+O001397,2025-10-31,C00055,South,Chennai,Marketplace,Completed,S004
+O000076,2025-11-01,C00190,West,Mumbai,Website,Completed,S009
+O000452,2025-11-01,C00439,South,Chennai,Website,Completed,S009
+O000824,2025-11-01,C00551,East,Kolkata,Website,Completed,S008
+O001122,2025-11-01,C00583,North,Delhi,Marketplace,Completed,S006
+O001582,2025-11-01,C00537,West,Mumbai,Marketplace,Completed,S003
+O001640,2025-11-01,C00345,North,Delhi,Marketplace,Completed,S007
+O000017,2025-11-02,C00358,North,Delhi,Marketplace,Completed,S009
+O000090,2025-11-02,C00136,West,Mumbai,Website,Completed,S009
+O000620,2025-11-02,C00235,East,Kolkata,Mobile App,Completed,S008
+O000621,2025-11-02,C00153,Central,Bengaluru,Website,Completed,S006
+O000685,2025-11-02,C00422,East,Kolkata,Mobile App,Completed,S006
+O000779,2025-11-02,C00052,North,Delhi,Marketplace,Completed,S002
+O000996,2025-11-02,C00168,North,Delhi,Marketplace,Cancelled,S010
+O001213,2025-11-02,C00522,South,Chennai,Marketplace,Completed,S006
+O000732,2025-11-03,C00362,South,Chennai,Mobile App,Completed,S003
+O001720,2025-11-03,C00495,East,Kolkata,Marketplace,Completed,S004
+O001806,2025-11-03,C00360,South,Chennai,Website,Completed,S003
+O000074,2025-11-04,C00077,West,Mumbai,Website,Completed,S006
+O000372,2025-11-04,C00393,West,Mumbai,Website,Completed,S006
+O000479,2025-11-04,C00209,Central,Bengaluru,Mobile App,Completed,S008
+O000560,2025-11-04,C00218,South,Chennai,Website,Completed,S007
+O000687,2025-11-04,C00587,South,Chennai,Website,Completed,S005
+O000850,2025-11-04,C00206,East,Kolkata,Marketplace,Completed,S003
+O001034,2025-11-04,C00022,East,Kolkata,Marketplace,Completed,S002
+O001342,2025-11-04,C00248,North,Delhi,Mobile App,Completed,S006
+O001779,2025-11-04,C00454,East,Kolkata,Website,Completed,S010
+O000618,2025-11-05,C00494,Central,Bengaluru,Website,Completed,S008
+O000820,2025-11-05,C00236,North,Delhi,Marketplace,Completed,S009
+O000858,2025-11-05,C00127,North,Delhi,Website,Completed,S007
+O001292,2025-11-05,C00407,West,Mumbai,Mobile App,Completed,S007
+O001596,2025-11-05,C00230,South,Chennai,Website,Completed,S002
+O001933,2025-11-05,C00553,Central,Bengaluru,Marketplace,Completed,S002
+O001981,2025-11-05,C00245,East,Kolkata,Marketplace,Completed,S005
+O000027,2025-11-06,C00067,South,Chennai,Marketplace,Completed,S001
+O000646,2025-11-06,C00370,West,Mumbai,Mobile App,Completed,S006
+O001174,2025-11-06,C00118,Central,Bengaluru,Marketplace,Completed,S008
+O001781,2025-11-06,C00581,East,Kolkata,Mobile App,Completed,S009
+O000118,2025-11-07,C00135,Central,Bengaluru,Mobile App,Completed,S003
+O000148,2025-11-07,C00112,East,Kolkata,Website,Completed,S009
+O000667,2025-11-07,C00327,North,Delhi,Mobile App,Completed,S002
+O000845,2025-11-07,C00429,North,Delhi,Marketplace,Completed,S009
+O001549,2025-11-07,C00446,West,Mumbai,Marketplace,Completed,S003
+O001852,2025-11-07,C00592,Central,Bengaluru,Marketplace,Completed,S002
+O000390,2025-11-08,C00104,South,Chennai,Website,Completed,S010
+O000546,2025-11-08,C00137,East,Kolkata,Mobile App,Completed,S005
+O000595,2025-11-08,C00059,East,Kolkata,Website,Returned,S001
+O000713,2025-11-08,C00047,Central,Bengaluru,Marketplace,Completed,S001
+O000857,2025-11-08,C00583,East,Kolkata,Mobile App,Completed,S005
+O001226,2025-11-08,C00508,North,Delhi,Mobile App,Completed,S007
+O001347,2025-11-08,C00406,North,Delhi,Mobile App,Completed,S007
+O001099,2025-11-09,C00321,West,Mumbai,Mobile App,Completed,S005
+O001728,2025-11-09,C00062,Central,Bengaluru,Mobile App,Completed,S003
+O001777,2025-11-09,C00553,East,Kolkata,Website,Completed,S010
+O000119,2025-11-10,C00123,South,Chennai,Marketplace,Completed,S009
+O000139,2025-11-10,C00168,North,Delhi,Marketplace,Completed,S004
+O000415,2025-11-10,C00066,Central,Bengaluru,Marketplace,Completed,S004
+O000436,2025-11-10,C00346,North,Delhi,Mobile App,Completed,S007
+O000569,2025-11-10,C00470,West,Mumbai,Marketplace,Cancelled,S008
+O000831,2025-11-10,C00155,West,Mumbai,Mobile App,Completed,S003
+O000910,2025-11-10,C00381,East,Kolkata,Website,Completed,S003
+O001145,2025-11-10,C00007,East,Kolkata,Mobile App,Completed,S006
+O001162,2025-11-10,C00051,Central,Bengaluru,Marketplace,Completed,S006
+O001191,2025-11-10,C00020,West,Mumbai,Website,Completed,S003
+O001238,2025-11-10,C00401,South,Chennai,Website,Completed,S001
+O001285,2025-11-10,C00102,West,Mumbai,Marketplace,Completed,S007
+O001331,2025-11-10,C00493,West,Mumbai,Marketplace,Completed,S007
+O001701,2025-11-10,C00083,East,Kolkata,Mobile App,Completed,S010
+O000006,2025-11-11,C00354,East,Kolkata,Marketplace,Returned,S003
+O000075,2025-11-11,C00117,South,Chennai,Mobile App,Completed,S002
+O000192,2025-11-11,C00542,Central,Bengaluru,Marketplace,Completed,S010
+O001930,2025-11-11,C00346,South,Chennai,Mobile App,Completed,S001
+O000319,2025-11-12,C00164,Central,Bengaluru,Marketplace,Completed,S001
+O000499,2025-11-12,C00218,West,Mumbai,Marketplace,Completed,S006
+O000800,2025-11-12,C00466,South,Chennai,Website,Completed,S004
+O001546,2025-11-12,C00496,West,Mumbai,Marketplace,Completed,S006
+O001783,2025-11-12,C00573,South,Chennai,Website,Completed,S003
+O001942,2025-11-12,C00091,North,Delhi,Mobile App,Cancelled,S010
+O000106,2025-11-13,C00324,North,Delhi,Website,Completed,S006
+O000752,2025-11-13,C00420,Central,Bengaluru,Mobile App,Completed,S009
+O001571,2025-11-13,C00106,East,Kolkata,Marketplace,Completed,S008
+O001573,2025-11-13,C00098,East,Kolkata,Mobile App,Completed,S002
+O001751,2025-11-13,C00041,West,Mumbai,Marketplace,Completed,S009
+O000077,2025-11-14,C00338,Central,Bengaluru,Website,Completed,S004
+O000566,2025-11-14,C00147,South,Chennai,Mobile App,Completed,S008
+O000819,2025-11-14,C00394,East,Kolkata,Website,Completed,S007
+O000900,2025-11-14,C00034,South,Chennai,Website,Completed,S008
+O000929,2025-11-14,C00022,West,Mumbai,Marketplace,Returned,S002
+O001232,2025-11-14,C00006,East,Kolkata,Marketplace,Completed,S009
+O001765,2025-11-14,C00169,South,Chennai,Mobile App,Completed,S001
+O000070,2025-11-15,C00258,South,Chennai,Mobile App,Completed,S001
+O000211,2025-11-15,C00024,East,Kolkata,Mobile App,Completed,S006
+O001612,2025-11-15,C00263,Central,Bengaluru,Marketplace,Completed,S006
+O001664,2025-11-15,C00570,South,Chennai,Website,Completed,S009
+O001123,2025-11-16,C00408,North,Delhi,Website,Completed,S008
+O001645,2025-11-16,C00144,West,Mumbai,Marketplace,Completed,S008
+O000020,2025-11-17,C00311,East,Kolkata,Mobile App,Completed,S008
+O000254,2025-11-17,C00583,North,Delhi,Mobile App,Completed,S003
+O000417,2025-11-17,C00410,South,Chennai,Marketplace,Completed,S002
+O000561,2025-11-17,C00078,North,Delhi,Mobile App,Returned,S003
+O000564,2025-11-17,C00205,North,Delhi,Marketplace,Completed,S007
+O001367,2025-11-17,C00356,South,Chennai,Marketplace,Completed,S010
+O001379,2025-11-17,C00450,West,Mumbai,Marketplace,Completed,S009
+O001766,2025-11-17,C00518,North,Delhi,Mobile App,Completed,S010
+O001849,2025-11-17,C00326,Central,Bengaluru,Mobile App,Completed,S008
+O000318,2025-11-18,C00492,West,Mumbai,Website,Completed,S005
+O000801,2025-11-18,C00433,North,Delhi,Mobile App,Cancelled,S002
+O001557,2025-11-18,C00066,South,Chennai,Mobile App,Returned,S005
+O001564,2025-11-18,C00468,North,Delhi,Website,Completed,S005
+O001922,2025-11-18,C00054,Central,Bengaluru,Website,Returned,S004
+O000871,2025-11-19,C00184,South,Chennai,Marketplace,Completed,S010
+O001499,2025-11-19,C00431,West,Mumbai,Mobile App,Completed,S010
+O000004,2025-11-20,C00302,Central,Bengaluru,Mobile App,Completed,S010
+O000132,2025-11-20,C00085,South,Chennai,Website,Completed,S007
+O001656,2025-11-20,C00385,South,Chennai,Marketplace,Completed,S009
+O001901,2025-11-20,C00023,West,Mumbai,Website,Completed,S002
+O000089,2025-11-21,C00475,East,Kolkata,Marketplace,Completed,S001
+O000165,2025-11-21,C00441,North,Delhi,Website,Completed,S005
+O000283,2025-11-21,C00532,East,Kolkata,Website,Completed,S004
+O001405,2025-11-21,C00394,East,Kolkata,Marketplace,Completed,S001
+O001807,2025-11-21,C00045,North,Delhi,Website,Completed,S001
+O000605,2025-11-22,C00306,Central,Bengaluru,Marketplace,Completed,S001
+O001201,2025-11-22,C00425,West,Mumbai,Website,Completed,S003
+O001599,2025-11-22,C00589,North,Delhi,Marketplace,Completed,S001
+O001995,2025-11-22,C00461,South,Chennai,Website,Completed,S009
+O000444,2025-11-23,C00366,West,Mumbai,Marketplace,Completed,S002
+O000526,2025-11-23,C00528,West,Mumbai,Website,Completed,S009
+O001177,2025-11-23,C00195,West,Mumbai,Marketplace,Completed,S005
+O001447,2025-11-23,C00103,West,Mumbai,Website,Completed,S002
+O000609,2025-11-24,C00583,South,Chennai,Website,Completed,S010
+O000661,2025-11-24,C00192,West,Mumbai,Website,Returned,S008
+O001010,2025-11-24,C00155,North,Delhi,Mobile App,Completed,S008
+O001188,2025-11-24,C00369,South,Chennai,Mobile App,Completed,S005
+O001198,2025-11-24,C00115,Central,Bengaluru,Website,Completed,S002
+O001480,2025-11-24,C00537,East,Kolkata,Mobile App,Completed,S006
+O001722,2025-11-24,C00478,North,Delhi,Marketplace,Completed,S004
+O001952,2025-11-24,C00478,Central,Bengaluru,Mobile App,Completed,S003
+O000680,2025-11-25,C00579,West,Mumbai,Mobile App,Completed,S001
+O000993,2025-11-25,C00412,Central,Bengaluru,Marketplace,Completed,S009
+O001044,2025-11-25,C00313,South,Chennai,Website,Completed,S003
+O001629,2025-11-25,C00337,Central,Bengaluru,Website,Completed,S004
+O000025,2025-11-26,C00590,West,Mumbai,Mobile App,Cancelled,S001
+O000346,2025-11-26,C00559,South,Chennai,Website,Completed,S001
+O001352,2025-11-26,C00153,South,Chennai,Website,Completed,S010
+O001548,2025-11-26,C00497,South,Chennai,Mobile App,Completed,S007
+O000432,2025-11-27,C00127,South,Chennai,Marketplace,Completed,S003
+O000498,2025-11-27,C00166,North,Delhi,Website,Completed,S007
+O000813,2025-11-27,C00264,West,Mumbai,Website,Completed,S003
+O000799,2025-11-28,C00494,Central,Bengaluru,Mobile App,Returned,S006
+O001287,2025-11-28,C00491,South,Chennai,Mobile App,Completed,S008
+O000112,2025-11-29,C00342,Central,Bengaluru,Mobile App,Completed,S006
+O000501,2025-11-29,C00560,South,Chennai,Marketplace,Completed,S005
+O000585,2025-11-29,C00350,East,Kolkata,Mobile App,Completed,S007
+O000690,2025-11-29,C00599,South,Chennai,Mobile App,Completed,S005
+O001826,2025-11-29,C00553,Central,Bengaluru,Marketplace,Returned,S004
+O001923,2025-11-29,C00020,Central,Bengaluru,Mobile App,Completed,S005
+O001988,2025-11-29,C00496,Central,Bengaluru,Mobile App,Completed,S004
+O000291,2025-11-30,C00122,West,Mumbai,Website,Completed,S008
+O000964,2025-11-30,C00559,South,Chennai,Marketplace,Completed,S008
+O001361,2025-11-30,C00216,South,Chennai,Mobile App,Returned,S010
+O001505,2025-11-30,C00563,South,Chennai,Website,Completed,S008
+O001186,2025-12-01,C00088,Central,Bengaluru,Marketplace,Completed,S005
+O001886,2025-12-01,C00009,Central,Bengaluru,Marketplace,Completed,S009
+O001247,2025-12-02,C00530,West,Mumbai,Marketplace,Completed,S008
+O001384,2025-12-02,C00334,Central,Bengaluru,Marketplace,Completed,S006
+O001950,2025-12-02,C00469,East,Kolkata,Website,Completed,S007
+O000217,2025-12-03,C00072,North,Delhi,Website,Completed,S002
+O000381,2025-12-03,C00249,North,Delhi,Marketplace,Completed,S007
+O000712,2025-12-03,C00432,Central,Bengaluru,Marketplace,Returned,S006
+O001049,2025-12-03,C00382,West,Mumbai,Mobile App,Cancelled,S010
+O001095,2025-12-03,C00191,West,Mumbai,Marketplace,Completed,S008
+O000223,2025-12-04,C00443,West,Mumbai,Website,Completed,S008
+O000272,2025-12-04,C00338,West,Mumbai,Marketplace,Completed,S010
+O000679,2025-12-04,C00394,Central,Bengaluru,Website,Completed,S008
+O000922,2025-12-04,C00528,Central,Bengaluru,Mobile App,Completed,S006
+O000972,2025-12-04,C00097,Central,Bengaluru,Marketplace,Completed,S003
+O001359,2025-12-04,C00581,North,Delhi,Marketplace,Completed,S007
+O001539,2025-12-04,C00031,East,Kolkata,Marketplace,Completed,S007
+O001739,2025-12-04,C00161,East,Kolkata,Mobile App,Completed,S008
+O001974,2025-12-04,C00228,South,Chennai,Website,Completed,S010
+O000229,2025-12-05,C00549,Central,Bengaluru,Mobile App,Completed,S009
+O000269,2025-12-05,C00067,West,Mumbai,Mobile App,Completed,S007
+O000565,2025-12-05,C00356,North,Delhi,Mobile App,Completed,S004
+O000643,2025-12-05,C00152,South,Chennai,Website,Completed,S005
+O001058,2025-12-05,C00215,North,Delhi,Marketplace,Completed,S003
+O001518,2025-12-05,C00435,West,Mumbai,Website,Completed,S003
+O001586,2025-12-05,C00403,Central,Bengaluru,Website,Completed,S004
+O001633,2025-12-05,C00446,Central,Bengaluru,Website,Completed,S009
+O001693,2025-12-05,C00578,North,Delhi,Website,Completed,S004
+O001699,2025-12-05,C00379,Central,Bengaluru,Mobile App,Completed,S008
+O000316,2025-12-06,C00086,East,Kolkata,Mobile App,Completed,S006
+O000446,2025-12-06,C00044,West,Mumbai,Marketplace,Completed,S003
+O000631,2025-12-06,C00423,Central,Bengaluru,Marketplace,Completed,S001
+O000726,2025-12-06,C00430,West,Mumbai,Website,Returned,S006
+O001133,2025-12-06,C00375,East,Kolkata,Website,Completed,S001
+O001639,2025-12-06,C00091,Central,Bengaluru,Website,Completed,S008
+O001969,2025-12-06,C00121,North,Delhi,Marketplace,Returned,S007
+O000716,2025-12-07,C00173,Central,Bengaluru,Marketplace,Completed,S007
+O001204,2025-12-07,C00503,East,Kolkata,Mobile App,Completed,S007
+O001584,2025-12-07,C00557,West,Mumbai,Website,Completed,S004
+O001719,2025-12-07,C00135,East,Kolkata,Mobile App,Completed,S003
+O000067,2025-12-08,C00078,South,Chennai,Website,Completed,S009
+O000260,2025-12-08,C00370,West,Mumbai,Mobile App,Completed,S001
+O000448,2025-12-08,C00215,North,Delhi,Website,Completed,S001
+O000674,2025-12-08,C00075,North,Delhi,Website,Completed,S006
+O000848,2025-12-08,C00482,East,Kolkata,Marketplace,Completed,S001
+O001324,2025-12-08,C00360,East,Kolkata,Marketplace,Completed,S007
+O001375,2025-12-08,C00237,East,Kolkata,Marketplace,Cancelled,S003
+O001592,2025-12-08,C00081,North,Delhi,Website,Completed,S006
+O000256,2025-12-09,C00104,Central,Bengaluru,Mobile App,Completed,S007
+O000422,2025-12-09,C00313,South,Chennai,Website,Completed,S001
+O000508,2025-12-09,C00386,South,Chennai,Mobile App,Completed,S002
+O000747,2025-12-09,C00579,East,Kolkata,Marketplace,Cancelled,S002
+O000815,2025-12-09,C00433,East,Kolkata,Marketplace,Completed,S008
+O000923,2025-12-09,C00191,West,Mumbai,Mobile App,Completed,S010
+O001083,2025-12-09,C00009,East,Kolkata,Marketplace,Completed,S009
+O001606,2025-12-09,C00064,North,Delhi,Mobile App,Completed,S010
+O001759,2025-12-09,C00412,South,Chennai,Marketplace,Completed,S009
+O001795,2025-12-09,C00483,West,Mumbai,Mobile App,Completed,S002
+O000408,2025-12-10,C00010,North,Delhi,Marketplace,Completed,S006
+O000433,2025-12-10,C00369,East,Kolkata,Website,Returned,S004
+O000892,2025-12-10,C00227,North,Delhi,Mobile App,Returned,S002
+O001498,2025-12-10,C00262,West,Mumbai,Website,Completed,S003
+O000166,2025-12-11,C00059,North,Delhi,Marketplace,Completed,S002
+O000190,2025-12-11,C00247,East,Kolkata,Mobile App,Completed,S005
+O000262,2025-12-11,C00016,West,Mumbai,Mobile App,Completed,S004
+O000268,2025-12-11,C00162,North,Delhi,Mobile App,Completed,S007
+O000733,2025-12-11,C00532,East,Kolkata,Website,Completed,S010
+O000745,2025-12-11,C00093,East,Kolkata,Mobile App,Completed,S004
+O000810,2025-12-11,C00541,South,Chennai,Marketplace,Completed,S005
+O000931,2025-12-11,C00271,South,Chennai,Website,Completed,S001
+O001008,2025-12-11,C00242,Central,Bengaluru,Mobile App,Completed,S004
+O001523,2025-12-11,C00314,North,Delhi,Mobile App,Completed,S007
+O001575,2025-12-11,C00580,South,Chennai,Marketplace,Completed,S009
+O001703,2025-12-11,C00006,West,Mumbai,Marketplace,Completed,S006
+O001997,2025-12-11,C00277,East,Kolkata,Website,Completed,S004
+O000079,2025-12-12,C00463,South,Chennai,Mobile App,Completed,S002
+O001269,2025-12-12,C00131,Central,Bengaluru,Marketplace,Completed,S010
+O000843,2025-12-13,C00103,South,Chennai,Marketplace,Completed,S003
+O000932,2025-12-13,C00230,South,Chennai,Marketplace,Completed,S002
+O001504,2025-12-13,C00207,South,Chennai,Website,Returned,S004
+O001614,2025-12-13,C00423,Central,Bengaluru,Mobile App,Completed,S001
+O000953,2025-12-14,C00503,Central,Bengaluru,Website,Completed,S006
+O001517,2025-12-14,C00113,Central,Bengaluru,Marketplace,Completed,S008
+O000530,2025-12-15,C00477,Central,Bengaluru,Website,Completed,S001
+O001243,2025-12-15,C00369,South,Chennai,Website,Completed,S001
+O001276,2025-12-15,C00365,Central,Bengaluru,Marketplace,Completed,S007
+O001407,2025-12-15,C00265,South,Chennai,Website,Completed,S004
+O001890,2025-12-15,C00389,East,Kolkata,Mobile App,Completed,S001
+O001938,2025-12-15,C00297,South,Chennai,Marketplace,Completed,S005
+O000364,2025-12-16,C00180,East,Kolkata,Website,Completed,S003
+O000936,2025-12-16,C00580,South,Chennai,Website,Completed,S003
+O001415,2025-12-16,C00365,Central,Bengaluru,Website,Completed,S003
+O001824,2025-12-16,C00015,West,Mumbai,Website,Completed,S008
+O001898,2025-12-16,C00218,West,Mumbai,Marketplace,Completed,S009
+O000019,2025-12-17,C00120,West,Mumbai,Marketplace,Completed,S010
+O000031,2025-12-17,C00525,South,Chennai,Website,Completed,S004
+O000470,2025-12-17,C00496,South,Chennai,Marketplace,Completed,S006
+O000692,2025-12-17,C00595,North,Delhi,Mobile App,Completed,S010
+O000896,2025-12-17,C00241,West,Mumbai,Website,Completed,S009
+O001094,2025-12-17,C00034,West,Mumbai,Marketplace,Completed,S010
+O001218,2025-12-17,C00002,North,Delhi,Marketplace,Completed,S009
+O001521,2025-12-17,C00148,North,Delhi,Marketplace,Completed,S002
+O001628,2025-12-17,C00280,West,Mumbai,Mobile App,Completed,S006
+O001960,2025-12-17,C00112,West,Mumbai,Marketplace,Completed,S004
+O000059,2025-12-18,C00416,West,Mumbai,Mobile App,Completed,S002
+O000236,2025-12-18,C00435,East,Kolkata,Website,Completed,S010
+O000305,2025-12-18,C00502,East,Kolkata,Mobile App,Cancelled,S003
+O000577,2025-12-18,C00026,North,Delhi,Marketplace,Completed,S010
+O001088,2025-12-18,C00502,South,Chennai,Website,Completed,S009
+O001181,2025-12-18,C00074,North,Delhi,Mobile App,Completed,S007
+O001430,2025-12-18,C00177,Central,Bengaluru,Marketplace,Completed,S002
+O001650,2025-12-18,C00142,West,Mumbai,Website,Completed,S005
+O000066,2025-12-19,C00514,West,Mumbai,Marketplace,Completed,S006
+O000093,2025-12-19,C00258,North,Delhi,Marketplace,Completed,S003
+O000276,2025-12-19,C00269,East,Kolkata,Mobile App,Completed,S005
+O000513,2025-12-19,C00311,South,Chennai,Mobile App,Completed,S001
+O000581,2025-12-19,C00309,South,Chennai,Marketplace,Completed,S007
+O000700,2025-12-19,C00508,Central,Bengaluru,Marketplace,Completed,S003
+O001165,2025-12-19,C00298,East,Kolkata,Website,Completed,S003
+O001957,2025-12-19,C00229,East,Kolkata,Website,Completed,S001
+O000013,2025-12-20,C00048,West,Mumbai,Mobile App,Returned,S008
+O000168,2025-12-20,C00263,Central,Bengaluru,Website,Completed,S006
+O000520,2025-12-20,C00045,West,Mumbai,Marketplace,Completed,S002
+O000960,2025-12-20,C00031,North,Delhi,Mobile App,Completed,S006
+O001263,2025-12-20,C00517,East,Kolkata,Marketplace,Completed,S001
+O001320,2025-12-20,C00298,East,Kolkata,Website,Completed,S005
+O001617,2025-12-20,C00478,West,Mumbai,Website,Completed,S005
+O000032,2025-12-21,C00397,East,Kolkata,Website,Completed,S009
+O000127,2025-12-21,C00583,South,Chennai,Marketplace,Completed,S001
+O000185,2025-12-21,C00192,West,Mumbai,Mobile App,Completed,S006
+O000386,2025-12-21,C00243,West,Mumbai,Website,Completed,S002
+O001013,2025-12-21,C00334,West,Mumbai,Mobile App,Completed,S010
+O001038,2025-12-21,C00493,North,Delhi,Marketplace,Completed,S008
+O001079,2025-12-21,C00046,East,Kolkata,Website,Completed,S007
+O001157,2025-12-21,C00570,West,Mumbai,Website,Completed,S008
+O001515,2025-12-21,C00285,East,Kolkata,Website,Completed,S004
+O000409,2025-12-22,C00471,East,Kolkata,Marketplace,Completed,S002
+O000966,2025-12-22,C00478,South,Chennai,Marketplace,Completed,S003
+O001305,2025-12-22,C00137,Central,Bengaluru,Mobile App,Completed,S008
+O001438,2025-12-22,C00599,Central,Bengaluru,Website,Completed,S009
+O001732,2025-12-22,C00286,West,Mumbai,Website,Completed,S007
+O000053,2025-12-23,C00116,East,Kolkata,Mobile App,Completed,S007
+O001265,2025-12-23,C00160,North,Delhi,Mobile App,Completed,S009
+O001280,2025-12-23,C00200,North,Delhi,Website,Completed,S007
+O001308,2025-12-23,C00036,East,Kolkata,Marketplace,Returned,S009
+O001403,2025-12-23,C00435,West,Mumbai,Marketplace,Completed,S005
+O001473,2025-12-23,C00200,Central,Bengaluru,Marketplace,Completed,S001
+O001998,2025-12-23,C00438,West,Mumbai,Website,Completed,S001
+O000060,2025-12-24,C00297,East,Kolkata,Marketplace,Returned,S004
+O000104,2025-12-24,C00181,West,Mumbai,Website,Completed,S004
+O000397,2025-12-24,C00528,East,Kolkata,Mobile App,Completed,S003
+O000465,2025-12-24,C00261,North,Delhi,Website,Completed,S004
+O000592,2025-12-24,C00276,South,Chennai,Mobile App,Completed,S002
+O001335,2025-12-24,C00202,Central,Bengaluru,Mobile App,Completed,S003
+O001566,2025-12-24,C00089,South,Chennai,Marketplace,Completed,S005
+O001866,2025-12-24,C00269,East,Kolkata,Website,Completed,S005
+O001877,2025-12-24,C00225,South,Chennai,Marketplace,Completed,S007
+O000512,2025-12-25,C00129,South,Chennai,Website,Completed,S005
+O000777,2025-12-25,C00396,West,Mumbai,Mobile App,Completed,S001
+O001949,2025-12-25,C00066,North,Delhi,Mobile App,Completed,S004
+O000120,2025-12-26,C00480,East,Kolkata,Website,Completed,S004
+O000163,2025-12-26,C00119,North,Delhi,Mobile App,Completed,S005
+O000178,2025-12-26,C00136,South,Chennai,Mobile App,Completed,S001
+O000744,2025-12-26,C00344,Central,Bengaluru,Marketplace,Completed,S008
+O000785,2025-12-26,C00077,South,Chennai,Website,Completed,S008
+O001885,2025-12-26,C00195,East,Kolkata,Marketplace,Completed,S007
+O001951,2025-12-26,C00504,South,Chennai,Marketplace,Completed,S008
+O001983,2025-12-26,C00574,West,Mumbai,Marketplace,Completed,S003
+O000549,2025-12-27,C00570,West,Mumbai,Mobile App,Completed,S008
+O000891,2025-12-27,C00223,North,Delhi,Marketplace,Completed,S009
+O000938,2025-12-27,C00323,South,Chennai,Website,Completed,S002
+O000949,2025-12-27,C00344,South,Chennai,Marketplace,Completed,S006
+O001903,2025-12-27,C00380,East,Kolkata,Marketplace,Completed,S009
+O001056,2025-12-28,C00180,East,Kolkata,Website,Completed,S010
+O001696,2025-12-28,C00372,North,Delhi,Marketplace,Completed,S001
+O001947,2025-12-28,C00083,West,Mumbai,Website,Completed,S006
+O000278,2025-12-29,C00318,North,Delhi,Mobile App,Completed,S004
+O000823,2025-12-29,C00054,East,Kolkata,Website,Completed,S010
+O001072,2025-12-29,C00542,North,Delhi,Marketplace,Completed,S001
+O001195,2025-12-29,C00573,Central,Bengaluru,Website,Completed,S004
+O001220,2025-12-29,C00257,East,Kolkata,Marketplace,Completed,S007
+O001578,2025-12-29,C00412,West,Mumbai,Mobile App,Completed,S002
+O001630,2025-12-29,C00007,West,Mumbai,Website,Cancelled,S005
+O000091,2025-12-30,C00130,East,Kolkata,Website,Completed,S003
+O000328,2025-12-30,C00331,North,Delhi,Website,Cancelled,S005
+O000456,2025-12-30,C00172,South,Chennai,Mobile App,Completed,S007
+O000665,2025-12-30,C00059,North,Delhi,Website,Completed,S005
+O001210,2025-12-30,C00081,South,Chennai,Marketplace,Completed,S008
+O001816,2025-12-30,C00528,West,Mumbai,Mobile App,Completed,S007
+O001887,2025-12-30,C00056,North,Delhi,Mobile App,Completed,S008
+O001916,2025-12-30,C00316,North,Delhi,Marketplace,Completed,S002
+O000152,2025-12-31,C00524,South,Chennai,Marketplace,Completed,S010
+O000174,2025-12-31,C00122,North,Delhi,Mobile App,Completed,S005
+O000288,2025-12-31,C00530,West,Mumbai,Website,Cancelled,S005
+O001112,2025-12-31,C00589,South,Chennai,Mobile App,Completed,S008
+O001116,2025-12-31,C00351,East,Kolkata,Marketplace,Completed,S003
+O001270,2025-12-31,C00264,South,Chennai,Mobile App,Completed,S006
+O001801,2025-12-31,C00023,West,Mumbai,Marketplace,Completed,S009
+O001986,2025-12-31,C00519,West,Mumbai,Mobile App,Completed,S004

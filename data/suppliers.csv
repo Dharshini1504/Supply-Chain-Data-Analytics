@@ -1,0 +1,11 @@
+supplier_id,supplier_name,supplier_region,supplier_rating,lead_time_days
+S001,Supplier 01,North,4.7,6
+S002,Supplier 02,South,4.1,2
+S003,Supplier 03,East,4.4,7
+S004,Supplier 04,West,3.9,2
+S005,Supplier 05,Central,4.8,8
+S006,Supplier 06,North,3.6,9
+S007,Supplier 07,South,4.7,7
+S008,Supplier 08,East,4.7,5
+S009,Supplier 09,West,3.7,9
+S010,Supplier 10,Central,3.9,8

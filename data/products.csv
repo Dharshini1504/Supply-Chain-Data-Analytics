@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_cost,list_price
+P001,Product 01,Electronics,358,458.07
+P002,Product 02,Home & Kitchen,2344,3267.78
+P003,Product 03,Office Supplies,1998,2442.23
+P004,Product 04,Apparel,1372,2043.83
+P005,Product 05,Sports,1355,1925.57
+P006,Product 06,Electronics,2589,3793.74
+P007,Product 07,Home & Kitchen,349,462.11
+P008,Product 08,Office Supplies,2122,3267.34
+P009,Product 09,Apparel,684,1034.61
+P010,Product 10,Sports,373,549.22
+P011,Product 11,Electronics,1626,2061.97
+P012,Product 12,Home & Kitchen,2929,3993.26
+P013,Product 13,Office Supplies,2233,2713.83
+P014,Product 14,Apparel,2307,2892.98
+P015,Product 15,Sports,2180,3137.17
+P016,Product 16,Electronics,2379,3474.93
+P017,Product 17,Home & Kitchen,1588,2443.34
+P018,Product 18,Office Supplies,471,618.91
+P019,Product 19,Apparel,2535,3370.69
+P020,Product 20,Sports,1406,1918.27
+P021,Product 21,Electronics,1551,1964.05
+P022,Product 22,Home & Kitchen,1175,1463.43
+P023,Product 23,Office Supplies,629,859.53
+P024,Product 24,Apparel,2787,3565.74
+P025,Product 25,Sports,2366,3393.87
+P026,Product 26,Electronics,1967,2661.36
+P027,Product 27,Home & Kitchen,1267,1889.65
+P028,Product 28,Office Supplies,2486,3592.5
+P029,Product 29,Apparel,1681,2200.98
+P030,Product 30,Sports,1385,2065.44

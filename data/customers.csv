@@ -1,0 +1,601 @@
+customer_id,customer_segment,customer_region
+C00001,Corporate,Central
+C00002,Small Business,West
+C00003,Small Business,Central
+C00004,Corporate,Central
+C00005,Small Business,North
+C00006,Consumer,South
+C00007,Consumer,West
+C00008,Small Business,East
+C00009,Corporate,North
+C00010,Consumer,North
+C00011,Small Business,East
+C00012,Consumer,West
+C00013,Small Business,North
+C00014,Consumer,North
+C00015,Small Business,North
+C00016,Small Business,East
+C00017,Small Business,North
+C00018,Corporate,East
+C00019,Corporate,East
+C00020,Small Business,East
+C00021,Consumer,West
+C00022,Small Business,East
+C00023,Corporate,West
+C00024,Corporate,West
+C00025,Corporate,Central
+C00026,Corporate,West
+C00027,Consumer,East
+C00028,Consumer,East
+C00029,Consumer,South
+C00030,Consumer,East
+C00031,Corporate,North
+C00032,Small Business,Central
+C00033,Corporate,Central
+C00034,Corporate,North
+C00035,Small Business,West
+C00036,Corporate,North
+C00037,Consumer,West
+C00038,Small Business,North
+C00039,Corporate,East
+C00040,Corporate,West
+C00041,Corporate,West
+C00042,Corporate,East
+C00043,Consumer,Central
+C00044,Corporate,West
+C00045,Small Business,South
+C00046,Consumer,West
+C00047,Corporate,West
+C00048,Consumer,South
+C00049,Corporate,West
+C00050,Corporate,Central
+C00051,Small Business,Central
+C00052,Consumer,West
+C00053,Consumer,West
+C00054,Corporate,South
+C00055,Small Business,West
+C00056,Small Business,South
+C00057,Consumer,East
+C00058,Consumer,South
+C00059,Small Business,South
+C00060,Consumer,North
+C00061,Small Business,Central
+C00062,Consumer,North
+C00063,Small Business,North
+C00064,Consumer,Central
+C00065,Corporate,East
+C00066,Corporate,East
+C00067,Consumer,West
+C00068,Corporate,South
+C00069,Corporate,North
+C00070,Small Business,West
+C00071,Small Business,North
+C00072,Corporate,East
+C00073,Corporate,Central
+C00074,Corporate,Central
+C00075,Corporate,South
+C00076,Small Business,West
+C00077,Consumer,West
+C00078,Consumer,East
+C00079,Corporate,North
+C00080,Consumer,South
+C00081,Consumer,West
+C00082,Consumer,Central
+C00083,Small Business,North
+C00084,Small Business,West
+C00085,Small Business,Central
+C00086,Corporate,Central
+C00087,Small Business,East
+C00088,Consumer,North
+C00089,Small Business,South
+C00090,Corporate,Central
+C00091,Small Business,Central
+C00092,Consumer,West
+C00093,Corporate,North
+C00094,Small Business,North
+C00095,Corporate,East
+C00096,Corporate,East
+C00097,Consumer,North
+C00098,Corporate,West
+C00099,Consumer,East
+C00100,Consumer,North
+C00101,Small Business,North
+C00102,Corporate,East
+C00103,Corporate,West
+C00104,Corporate,Central
+C00105,Small Business,East
+C00106,Consumer,South
+C00107,Corporate,Central
+C00108,Consumer,East
+C00109,Corporate,South
+C00110,Small Business,East
+C00111,Corporate,North
+C00112,Small Business,South
+C00113,Corporate,East
+C00114,Small Business,Central
+C00115,Corporate,West
+C00116,Consumer,West
+C00117,Small Business,East
+C00118,Small Business,North
+C00119,Consumer,South
+C00120,Small Business,Central
+C00121,Consumer,North
+C00122,Small Business,Central
+C00123,Small Business,West
+C00124,Corporate,South
+C00125,Small Business,West
+C00126,Consumer,Central
+C00127,Consumer,North
+C00128,Consumer,North
+C00129,Corporate,West
+C00130,Small Business,Central
+C00131,Consumer,North
+C00132,Corporate,West
+C00133,Small Business,North
+C00134,Consumer,West
+C00135,Small Business,West
+C00136,Consumer,North
+C00137,Small Business,West
+C00138,Corporate,Central
+C00139,Corporate,Central
+C00140,Consumer,North
+C00141,Corporate,South
+C00142,Small Business,South
+C00143,Consumer,East
+C00144,Small Business,North
+C00145,Corporate,Central
+C00146,Small Business,West
+C00147,Corporate,Central
+C00148,Corporate,North
+C00149,Consumer,North
+C00150,Corporate,Central
+C00151,Consumer,South
+C00152,Corporate,West
+C00153,Consumer,Central
+C00154,Corporate,North
+C00155,Corporate,North
+C00156,Consumer,North
+C00157,Small Business,North
+C00158,Corporate,North
+C00159,Small Business,Central
+C00160,Consumer,West
+C00161,Consumer,Central
+C00162,Corporate,Central
+C00163,Consumer,Central
+C00164,Consumer,South
+C00165,Corporate,South
+C00166,Consumer,Central
+C00167,Small Business,South
+C00168,Consumer,North
+C00169,Consumer,West
+C00170,Corporate,Central
+C00171,Small Business,Central
+C00172,Consumer,Central
+C00173,Consumer,North
+C00174,Small Business,West
+C00175,Small Business,Central
+C00176,Corporate,West
+C00177,Corporate,Central
+C00178,Corporate,Central
+C00179,Corporate,East
+C00180,Corporate,North
+C00181,Consumer,East
+C00182,Consumer,South
+C00183,Consumer,North
+C00184,Small Business,North
+C00185,Corporate,West
+C00186,Corporate,East
+C00187,Corporate,East
+C00188,Small Business,West
+C00189,Consumer,East
+C00190,Consumer,West
+C00191,Consumer,North
+C00192,Corporate,Central
+C00193,Small Business,East
+C00194,Corporate,North
+C00195,Corporate,Central
+C00196,Small Business,West
+C00197,Consumer,North
+C00198,Corporate,North
+C00199,Corporate,North
+C00200,Corporate,South
+C00201,Small Business,North
+C00202,Consumer,West
+C00203,Small Business,East
+C00204,Consumer,Central
+C00205,Corporate,West
+C00206,Corporate,West
+C00207,Small Business,East
+C00208,Corporate,North
+C00209,Consumer,North
+C00210,Consumer,West
+C00211,Corporate,North
+C00212,Small Business,North
+C00213,Consumer,South
+C00214,Small Business,Central
+C00215,Corporate,East
+C00216,Consumer,West
+C00217,Consumer,East
+C00218,Corporate,North
+C00219,Consumer,South
+C00220,Consumer,North
+C00221,Corporate,West
+C00222,Small Business,North
+C00223,Consumer,South
+C00224,Consumer,Central
+C00225,Consumer,East
+C00226,Corporate,East
+C00227,Small Business,East
+C00228,Small Business,West
+C00229,Small Business,South
+C00230,Small Business,West
+C00231,Consumer,Central
+C00232,Consumer,East
+C00233,Corporate,East
+C00234,Small Business,North
+C00235,Small Business,South
+C00236,Consumer,Central
+C00237,Consumer,East
+C00238,Consumer,South
+C00239,Consumer,East
+C00240,Corporate,East
+C00241,Corporate,East
+C00242,Corporate,West
+C00243,Consumer,South
+C00244,Small Business,West
+C00245,Corporate,East
+C00246,Small Business,Central
+C00247,Small Business,North
+C00248,Consumer,North
+C00249,Consumer,East
+C00250,Small Business,East
+C00251,Corporate,West
+C00252,Consumer,East
+C00253,Corporate,Central
+C00254,Corporate,East
+C00255,Small Business,North
+C00256,Consumer,North
+C00257,Small Business,Central
+C00258,Small Business,North
+C00259,Consumer,Central
+C00260,Consumer,South
+C00261,Corporate,North
+C00262,Consumer,South
+C00263,Consumer,West
+C00264,Corporate,East
+C00265,Small Business,West
+C00266,Small Business,West
+C00267,Consumer,East
+C00268,Small Business,West
+C00269,Consumer,Central
+C00270,Small Business,East
+C00271,Small Business,North
+C00272,Small Business,East
+C00273,Consumer,Central
+C00274,Small Business,South
+C00275,Consumer,Central
+C00276,Corporate,East
+C00277,Corporate,West
+C00278,Consumer,South
+C00279,Consumer,Central
+C00280,Small Business,North
+C00281,Corporate,South
+C00282,Corporate,East
+C00283,Corporate,East
+C00284,Corporate,East
+C00285,Small Business,North
+C00286,Consumer,South
+C00287,Small Business,North
+C00288,Small Business,East
+C00289,Corporate,South
+C00290,Consumer,East
+C00291,Consumer,East
+C00292,Small Business,West
+C00293,Small Business,East
+C00294,Consumer,West
+C00295,Consumer,East
+C00296,Consumer,West
+C00297,Consumer,West
+C00298,Small Business,South
+C00299,Small Business,South
+C00300,Consumer,West
+C00301,Small Business,South
+C00302,Consumer,East
+C00303,Corporate,North
+C00304,Corporate,East
+C00305,Small Business,East
+C00306,Small Business,West
+C00307,Consumer,East
+C00308,Consumer,South
+C00309,Consumer,Central
+C00310,Consumer,East
+C00311,Small Business,Central
+C00312,Small Business,West
+C00313,Consumer,East
+C00314,Small Business,Central
+C00315,Corporate,North
+C00316,Corporate,Central
+C00317,Corporate,Central
+C00318,Consumer,East
+C00319,Small Business,West
+C00320,Consumer,East
+C00321,Consumer,South
+C00322,Consumer,West
+C00323,Consumer,South
+C00324,Consumer,South
+C00325,Consumer,East
+C00326,Small Business,Central
+C00327,Small Business,South
+C00328,Consumer,East
+C00329,Consumer,North
+C00330,Corporate,North
+C00331,Small Business,North
+C00332,Small Business,North
+C00333,Small Business,Central
+C00334,Corporate,Central
+C00335,Corporate,Central
+C00336,Consumer,North
+C00337,Small Business,North
+C00338,Small Business,South
+C00339,Consumer,East
+C00340,Small Business,South
+C00341,Consumer,East
+C00342,Small Business,North
+C00343,Small Business,West
+C00344,Consumer,South
+C00345,Corporate,North
+C00346,Consumer,West
+C00347,Corporate,Central
+C00348,Small Business,North
+C00349,Consumer,East
+C00350,Corporate,Central
+C00351,Small Business,West
+C00352,Consumer,Central
+C00353,Consumer,East
+C00354,Corporate,South
+C00355,Corporate,West
+C00356,Corporate,North
+C00357,Consumer,South
+C00358,Small Business,West
+C00359,Corporate,West
+C00360,Consumer,North
+C00361,Small Business,East
+C00362,Small Business,South
+C00363,Corporate,East
+C00364,Consumer,Central
+C00365,Corporate,North
+C00366,Corporate,Central
+C00367,Consumer,East
+C00368,Corporate,West
+C00369,Small Business,East
+C00370,Consumer,South
+C00371,Small Business,West
+C00372,Consumer,West
+C00373,Small Business,North
+C00374,Corporate,West
+C00375,Consumer,West
+C00376,Small Business,South
+C00377,Consumer,Central
+C00378,Corporate,West
+C00379,Consumer,South
+C00380,Small Business,North
+C00381,Small Business,West
+C00382,Small Business,South
+C00383,Corporate,West
+C00384,Corporate,East
+C00385,Corporate,East
+C00386,Small Business,North
+C00387,Small Business,West
+C00388,Consumer,North
+C00389,Corporate,East
+C00390,Consumer,Central
+C00391,Consumer,Central
+C00392,Small Business,Central
+C00393,Consumer,Central
+C00394,Small Business,East
+C00395,Corporate,South
+C00396,Consumer,Central
+C00397,Corporate,Central
+C00398,Corporate,Central
+C00399,Small Business,West
+C00400,Corporate,North
+C00401,Small Business,East
+C00402,Small Business,East
+C00403,Small Business,Central
+C00404,Corporate,South
+C00405,Consumer,South
+C00406,Corporate,North
+C00407,Consumer,Central
+C00408,Corporate,West
+C00409,Small Business,North
+C00410,Corporate,East
+C00411,Consumer,East
+C00412,Corporate,East
+C00413,Small Business,Central
+C00414,Small Business,North
+C00415,Consumer,South
+C00416,Corporate,North
+C00417,Corporate,South
+C00418,Consumer,Central
+C00419,Consumer,Central
+C00420,Consumer,North
+C00421,Small Business,West
+C00422,Small Business,South
+C00423,Small Business,North
+C00424,Small Business,South
+C00425,Small Business,North
+C00426,Consumer,East
+C00427,Small Business,Central
+C00428,Consumer,East
+C00429,Corporate,West
+C00430,Corporate,East
+C00431,Corporate,North
+C00432,Consumer,North
+C00433,Consumer,South
+C00434,Small Business,South
+C00435,Consumer,Central
+C00436,Consumer,Central
+C00437,Small Business,Central
+C00438,Consumer,West
+C00439,Small Business,East
+C00440,Small Business,West
+C00441,Corporate,East
+C00442,Consumer,West
+C00443,Consumer,West
+C00444,Consumer,West
+C00445,Corporate,West
+C00446,Consumer,North
+C00447,Corporate,West
+C00448,Consumer,South
+C00449,Corporate,West
+C00450,Consumer,East
+C00451,Small Business,Central
+C00452,Consumer,South
+C00453,Consumer,Central
+C00454,Consumer,Central
+C00455,Small Business,South
+C00456,Consumer,East
+C00457,Corporate,East
+C00458,Corporate,West
+C00459,Corporate,West
+C00460,Small Business,Central
+C00461,Small Business,South
+C00462,Corporate,East
+C00463,Small Business,East
+C00464,Consumer,Central
+C00465,Small Business,South
+C00466,Corporate,East
+C00467,Small Business,North
+C00468,Small Business,Central
+C00469,Small Business,South
+C00470,Small Business,South
+C00471,Corporate,East
+C00472,Consumer,East
+C00473,Corporate,Central
+C00474,Consumer,East
+C00475,Small Business,East
+C00476,Consumer,North
+C00477,Consumer,North
+C00478,Consumer,South
+C00479,Corporate,Central
+C00480,Corporate,Central
+C00481,Small Business,West
+C00482,Corporate,West
+C00483,Consumer,South
+C00484,Consumer,North
+C00485,Consumer,North
+C00486,Corporate,South
+C00487,Small Business,South
+C00488,Corporate,North
+C00489,Small Business,South
+C00490,Consumer,North
+C00491,Consumer,West
+C00492,Small Business,Central
+C00493,Consumer,West
+C00494,Consumer,East
+C00495,Corporate,East
+C00496,Small Business,South
+C00497,Small Business,North
+C00498,Consumer,East
+C00499,Small Business,East
+C00500,Small Business,North
+C00501,Small Business,East
+C00502,Small Business,South
+C00503,Consumer,North
+C00504,Small Business,West
+C00505,Consumer,East
+C00506,Small Business,West
+C00507,Corporate,West
+C00508,Small Business,Central
+C00509,Corporate,Central
+C00510,Corporate,West
+C00511,Corporate,Central
+C00512,Small Business,East
+C00513,Small Business,Central
+C00514,Consumer,West
+C00515,Small Business,West
+C00516,Corporate,Central
+C00517,Consumer,East
+C00518,Corporate,West
+C00519,Small Business,South
+C00520,Small Business,Central
+C00521,Small Business,West
+C00522,Corporate,West
+C00523,Small Business,East
+C00524,Corporate,Central
+C00525,Small Business,North
+C00526,Corporate,North
+C00527,Consumer,East
+C00528,Consumer,West
+C00529,Consumer,Central
+C00530,Consumer,East
+C00531,Corporate,West
+C00532,Corporate,East
+C00533,Consumer,Central
+C00534,Corporate,West
+C00535,Corporate,East
+C00536,Consumer,Central
+C00537,Corporate,North
+C00538,Corporate,Central
+C00539,Corporate,North
+C00540,Corporate,South
+C00541,Small Business,Central
+C00542,Consumer,West
+C00543,Corporate,Central
+C00544,Corporate,West
+C00545,Consumer,West
+C00546,Small Business,South
+C00547,Consumer,North
+C00548,Consumer,North
+C00549,Small Business,South
+C00550,Small Business,North
+C00551,Small Business,East
+C00552,Small Business,West
+C00553,Small Business,Central
+C00554,Corporate,East
+C00555,Small Business,Central
+C00556,Consumer,Central
+C00557,Corporate,Central
+C00558,Corporate,East
+C00559,Small Business,South
+C00560,Small Business,Central
+C00561,Corporate,South
+C00562,Corporate,East
+C00563,Consumer,North
+C00564,Small Business,West
+C00565,Corporate,West
+C00566,Corporate,North
+C00567,Small Business,South
+C00568,Corporate,East
+C00569,Consumer,East
+C00570,Consumer,Central
+C00571,Consumer,South
+C00572,Small Business,Central
+C00573,Consumer,East
+C00574,Consumer,Central
+C00575,Corporate,South
+C00576,Small Business,North
+C00577,Corporate,North
+C00578,Small Business,South
+C00579,Small Business,Central
+C00580,Consumer,North
+C00581,Small Business,South
+C00582,Corporate,North
+C00583,Corporate,Central
+C00584,Consumer,West
+C00585,Corporate,West
+C00586,Small Business,West
+C00587,Corporate,West
+C00588,Consumer,West
+C00589,Corporate,North
+C00590,Small Business,Central
+C00591,Small Business,West
+C00592,Consumer,West
+C00593,Small Business,South
+C00594,Small Business,Central
+C00595,Consumer,South
+C00596,Small Business,North
+C00597,Corporate,Central
+C00598,Corporate,South
+C00599,Corporate,North
+C00600,Small Business,West
